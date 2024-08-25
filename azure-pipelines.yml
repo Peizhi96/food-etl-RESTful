@@ -21,12 +21,11 @@ steps:
     python -m pytest
   displayName: 'Deploy Notebooks to Databricks'
 
-- task: DatabricksDeployTask@0
+- task: databricksDeployScripts@0
   inputs:
-    authenticationType: 'PAT'
-    azureDevOpsServiceConnection: 'food-restuarants-service'
-    workspaceUrl: 'https://adb-750644874697514.14.azuredatabricks.net'
-    notebooksPath: '/Workspace/Users/yan.peiz@northeastern.edu/restaurant'
+    authMethod: 'bearer'
+    region: 'westeurope'
+    databricksPath: '/Shared'
     localPath: '/Users/Peizhi/Desktop/Main/DE/data-engineer/food-etl-RESTful'
     patToken: '$(DATABRICKS_PAT)'
   displayName: 'Deploy Notebooks to Databricks'
