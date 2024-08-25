@@ -18,6 +18,6 @@ This project focuses on gathering, processing, and analyzing data on Asian resta
     - Loaded these tables into a PostgreSQL database.
 
 3. **Cloud Deployment**:
-    - Uploaded the data files to Databricks for further processing.
     - Deployed the project on Azure, using Azure Data Factory for data processing.
     - Created a CI/CD pipeline with Azure DevOps to automate cloud deployment.
+   - Uploaded the data files to Databricks for further processing.
