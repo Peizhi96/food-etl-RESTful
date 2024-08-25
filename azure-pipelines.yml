@@ -1,0 +1,32 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- checkout: self
+
+- task: UsePythonVersion@0
+  inputs:
+    versionSpec: '3.x'
+
+- script: |
+    pip install -r requirements.txt
+    python -m pytest
+  displayName: 'Deploy Notebooks to Databricks'
+
+- task: DatabricksDeployTask@0
+  inputs:
+    authenticationType: 'PAT'
+    azureDevOpsServiceConnection: 'food-restuarants-service'
+    workspaceUrl: 'https://adb-750644874697514.14.azuredatabricks.net'
+    notebooksPath: '/Workspace/Users/yan.peiz@northeastern.edu/restaurant'
+    localPath: '/Users/Peizhi/Desktop/Main/DE/data-engineer/food-etl-RESTful'
+    patToken: '$(DATABRICKS_PAT)'
+  displayName: 'Deploy Notebooks to Databricks'
