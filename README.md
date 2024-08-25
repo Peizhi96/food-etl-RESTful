@@ -1,7 +1,5 @@
 # food-etl-RESTful
 
-# Los Angeles Asian Restaurants Data Engineering Project
-
 ## Project Overview
 
 This project focuses on gathering, processing, and analyzing data on Asian restaurants located in downtown Los Angeles. The project involves the following steps:
