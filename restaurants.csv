@@ -1,0 +1,361 @@
+name,address,rating,price_level,open_now
+Golden Dragon Chinese,"1754 S Grand Ave, Glendora",4.3,1.0,True
+Century Dragon,"3711 Magnolia Blvd, Burbank",4.4,1.0,True
+China garden Chinese food,"1211 S Soto St, Los Angeles",4.4,1.0,True
+Fat Dragon,"3500 Sunset Blvd, Los Angeles",4.0,1.0,True
+Sea Dragon,"101 Vermont Ave, Los Angeles",4.3,1.0,True
+First Szechuan Wok,"10855 Lindbrook Dr, Los Angeles",4.0,2.0,True
+Golden Wok,"3403 W Slauson Ave, Los Angeles",3.6,1.0,True
+Hong Kong Chinese Food,"12730 Hawthorne Blvd, Hawthorne",3.8,1.0,True
+California Wok,"16656 Ventura Blvd, Encino",4.2,1.0,True
+Oriental House,"2302 S La Cienega Blvd, Los Angeles",4.3,1.0,True
+Daily China Express,"1907 Hillhurst Ave, Los Angeles",4.4,1.0,True
+Wacky Wok - Westchester,"8919 S Sepulveda Blvd, Los Angeles",3.9,1.0,True
+Wok on Soto,"305 N Soto St, Los Angeles",4.3,1.0,True
+King Chinese Food,"4310 S Central Ave, Los Angeles",4.0,1.0,True
+China Gate,"11814 Wilmington Ave, Los Angeles",4.4,1.0,True
+China Kitchen,"1830 W Lincoln Ave, Anaheim",4.1,1.0,True
+Fine Wok,"1222 Pacific Coast Hwy, Harbor City",4.4,1.0,True
+Orange Blossom Chinese Restaurant,"3804 E Chapman Ave b, Orange",4.5,1.0,True
+Le Oriental Bistro,"1710 Highland Ave, Los Angeles",3.9,1.0,True
+Golden City Chinese Cuisine,"17719 Vanowen St, Reseda",4.5,1.0,True
+China Wok Express,"425 Imperial Hwy., Los Angeles",4.1,2.0,True
+China Express,"5440 S Central Ave, Los Angeles",4.7,2.0,True
+China Garden,"14825 Jeffrey Rd, Irvine",3.9,2.0,True
+Golden China Restaurant,"1115 Fair Oaks Ave, South Pasadena",4.3,2.0,True
+Hong Kong Express,"261 E Adams Blvd, Los Angeles",4.4,1.0,True
+Super Wok Chinese Restaurant,"5418 Reseda Blvd, Tarzana",4.4,1.0,True
+Jade Wok,"625 W College St #109, Los Angeles",4.6,1.0,True
+Chinese Express,"4414 Avalon Blvd, Los Angeles",4.6,1.0,True
+Golden Phoenix Chinese Restaurant,"4819 Paramount Blvd, Lakewood",4.4,1.0,True
+Little China Express,"3813 E Cesar E Chavez Ave, Los Angeles",4.4,1.0,True
+China Express,"19417 Soledad Canyon Rd, Santa Clarita",4.0,2.0,True
+Go China Restaurant,"136 N Lake Ave, Pasadena",4.4,2.0,True
+Sun Moon Garden,"1511 N San Fernando Blvd, Burbank",4.3,1.0,True
+Lucky Chinese Food,"18525 Brookhurst St, Fountain Valley",4.5,1.0,True
+Golden Palace Chinese Restaurant,"9116 Telegraph Rd, Downey",4.3,2.0,True
+Golden Pheasant,"1077 W Carson St, Torrance",4.4,2.0,True
+Hong Kong Express,"3330 W Florence Ave C, Los Angeles",4.4,1.0,True
+Royal Wok Chinese Restaurant,"1868 N Tustin St, Orange",4.6,1.0,True
+New China Restaurant,"11121 1st Ave, Whittier",4.6,1.0,True
+China Lites,"5424 Laurel Canyon Blvd c, Valley Village",4.4,2.0,True
+China Palace Restaurant,"13444 Newport Ave # C, Tustin",4.4,2.0,True
+The China Garden,"21618 Ventura Blvd, Woodland Hills",4.2,2.0,True
+New Flavors,"4135 S Centinela Ave, Los Angeles",4.2,1.0,True
+New Moon,"2138 Verdugo Blvd, Montrose",4.5,2.0,True
+Oriental Chinese Restaurant,"2380 W Whittier Blvd, La Habra",4.4,1.0,True
+Hong Kong Express,"10311 Avalon Blvd, Los Angeles",3.7,,True
+Chinese Express,"2016 N Main St, Los Angeles",4.5,,True
+Peking Restaurant,"8566 Westminster Blvd., Westminster",4.5,2.0,True
+Hong Kong Express,"1905 S Western Ave #1, Los Angeles",4.0,1.0,True
+Royal Dragon Chinese Restaurant,"21101 Sherman Way, Canoga Park",4.4,1.0,True
+Chinese Deli,"537 E Sepulveda Blvd, Carson",4.4,1.0,True
+China Express,"11845 Braddock Dr, Los Angeles",4.0,1.0,True
+Jin's Chinese Kitchen,"1930 W Olympic Blvd, Los Angeles",4.6,2.0,True
+Lucky Chinese Food,"2509 W McFadden Ave F, Santa Ana",4.4,1.0,True
+China Chef's Express Chinese Food,"2020 S Central Ave, Los Angeles",4.1,,True
+Mandarin Wong Chinese Restaurant,"23758 Lyons Ave, Newhall",4.4,1.0,True
+China Bistro,"8310 Valley Blvd, Rosemead",4.3,,True
+Fortune House Chinese Cuisine,"6031 San Vicente Blvd, Los Angeles",4.3,2.0,True
+Wok On Fire,"1447 S La Cienega Blvd, Los Angeles",4.3,2.0,True
+Szechuwan Garden Restaurant - Authentic Chinese Food in Canoga Park,"8399 CA-27, Canoga Park",4.1,1.0,True
+It's Boba Time Vermont,"701 S Vermont Ave, Los Angeles",4.5,1.0,True
+Gong Cha,"318 E 2nd St A, Los Angeles",4.3,1.0,True
+Tan-Cha,"3401-3413 W 6th St, Los Angeles",4.3,1.0,True
+Cha For Tea - Long Beach,"5720 E 7th St, Long Beach",4.4,1.0,True
+Tiger Sugar,"18330 Colima Rd, Rowland Heights",4.1,1.0,True
+Bubble Boba,"2829 Ocean Park Blvd, Santa Monica",4.4,1.0,True
+It's Boba Time,"704 N Vermont Ave, Los Angeles",4.5,1.0,True
+It's Boba Time,"125 N Western Ave, Los Angeles",4.3,1.0,True
+It's Boba Time,"6660 Sunset Blvd suite q, Los Angeles",4.4,1.0,True
+It’s Boba Time - Rolling Hills Estates,"27 Peninsula Center, Rolling Hills Estates",4.3,1.0,True
+Tiger Sugar,"3465 W 6th St #120, Los Angeles",4.2,1.0,True
+Bubble Republic,"800 W Las Tunas Dr #100, San Gabriel",4.3,1.0,True
+It's Boba Time- Glendale Marketplace,"136 S Brand Blvd, Glendale",4.2,1.0,True
+It's Boba Time,"3450 W 6th St Ste 111, Los Angeles",4.1,1.0,True
+Cha For Tea - University Center,"4187 Campus Dr Suite M173, Irvine",4.3,1.0,True
+It's Boba Time -Irvine,"3905 Irvine Blvd, Irvine",4.3,1.0,True
+Pot of Cha,"3013 S Figueroa St, Los Angeles",4.6,1.0,True
+Hello Boba,"11230 Garvey Ave #C, El Monte",4.7,1.0,True
+It's Boba Time Dewey,"2848 W Olympic Blvd, Los Angeles",4.4,1.0,True
+Sharetea,"1055 Broxton Ave, Los Angeles",4.5,1.0,True
+Sharetea,"11900 South St #106, Cerritos",4.6,1.0,True
+Tea Maru - Housemade Boba,"709 W Las Tunas Dr, San Gabriel",4.2,1.0,True
+It’s Boba Time,"1001 S Alvarado St, Los Angeles",4.5,1.0,True
+Feng Cha Teahouse - Costa Mesa,"891 Baker St Ste A18, Costa Mesa",4.5,1.0,True
+CrafTea,"4161 Ball Rd, Cypress",4.3,1.0,True
+It's Boba Time,"3617 Vermont Ave #3945, Los Angeles",4.3,1.0,True
+Bubble Puff & Tea Cafe,"1543 E Colorado Blvd, Pasadena",4.4,1.0,True
+Tan-Cha,"227 W Valley Blvd #118, San Gabriel",4.1,1.0,True
+FourTea,"870 N Tustin St, Orange",4.6,1.0,True
+Chala Boba,"16045 Sherman Way Ste #K, Van Nuys",4.6,1.0,True
+I Love Boba,"1001 Vermont Ave, Los Angeles",4.4,1.0,True
+I Love Boba,"3512 W 8th St, Los Angeles",4.5,1.0,True
+Teaspoon Sawtelle,"1947 Sawtelle Blvd Suite E, Los Angeles",4.7,1.0,True
+BobaPOP Tea Bar,"8744 Garden Grove Blvd, Garden Grove",4.3,1.0,True
+It's boba time,"9 E Main St, Alhambra",4.3,1.0,True
+Ding Tea Hawthorne,"5263 Rosecrans Ave, Hawthorne",4.5,1.0,True
+Boba Junkie,"1200 W Warner Ave b, Santa Ana",4.4,1.0,True
+Sharetea Santa Monica,"113 Broadway, Santa Monica",4.4,1.0,True
+It's Boba Time Highland,"5001 Wilshire Blvd Unit 105, Los Angeles",4.3,1.0,True
+Boba Cha Cha,"12906 Victory Blvd, Valley Glen",4.6,1.0,True
+Black Pearl Tea House,"12911 Magnolia St A, Garden Grove",4.2,1.0,True
+Just Boba Tea House,"952 Gayley Ave, Los Angeles",4.1,1.0,True
+It's Boba Time - Little Tokyo,"372 E 2nd St, Los Angeles",3.7,1.0,True
+Volcano Tea House,"2111 Sawtelle Blvd, Los Angeles",4.4,1.0,True
+Cha For Tea - Woodbridge Village Center,"4740 Barranca Pkwy Suite 4740, Irvine",4.2,1.0,True
+Tea Maru - Housemade Boba,"724 S Spring St #107, Los Angeles",3.8,1.0,True
+Urban Location Boba Tea House Garden Grove,"10872 Westminster Ave #103, Garden Grove",4.1,1.0,True
+ALittle Tea,"158 W Valley Blvd, San Gabriel",4.7,1.0,True
+Presotea Westminster,"9211 Bolsa Ave suite 105, Westminster",4.6,1.0,True
+WUSHILAND BOBA WCC,"10250 Santa Monica Blvd Suite 2770, Los Angeles",4.2,1.0,True
+Kung Fu Tea Westminster,"9709 Bolsa Ave, Westminster",4.2,1.0,True
+CHUBBI TEA SHOPPE,"9772 Garden Grove Blvd STE 1, Garden Grove",4.5,1.0,True
+Wushiland Boba,"140 W Valley Blvd Ste 104, San Gabriel",4.3,1.0,True
+Quickly Rowland Heights,"18353 Colima Rd, Rowland Heights",4.3,1.0,True
+Tapioca Express,"228 W Valley Blvd STE 105, Alhambra",4.1,1.0,True
+Ding Tea Bixby Knolls Long Beach,"3908 Atlantic Ave, Long Beach",4.4,1.0,True
+Boba Tea & Me,"1328 Wilshire Blvd, Santa Monica",4.2,1.0,True
+Boba Time,"11207 National Blvd, Los Angeles",2.9,1.0,True
+CHApu TeaShoppe,"8450 Garvey Ave Suit 102b, Rosemead",3.9,1.0,True
+"Y Tea Cafe: Boba, Fries, Crawfish","14291 N Euclid St Ste D105, Garden Grove",4.4,1.0,True
+Dim Sum Dumpling House,"417 W Main St, Alhambra",4.6,,True
+Juicy Dumpling Factory,"6100 Warner Ave UNIT 103, Huntington Beach",4.4,2.0,True
+Super Dumpling,"1500 E Village Way #2197, Orange",4.6,2.0,True
+Dumpling Queen,"16244 Whittier Blvd, Whittier",4.6,1.0,True
+Jia Yan Dumpling,"106 W Foothill Blvd, Glendora",5.0,2.0,True
+Jiayuan Dumpling House,"1904 S Pacific Coast Hwy, Redondo Beach",4.7,2.0,True
+"Super Juicy Dumpling [Brea, CA]","2445 E Imperial Hwy a, Brea",4.2,2.0,True
+Prince Dumpling,"8801 Valley Blvd, Rosemead",4.5,,True
+Tian You Feng Dumpling House,"1428 S Azusa Ave Ste A, West Covina",4.4,2.0,True
+Bafang Dumpling,"21215 Hawthorne Blvd, Torrance",4.2,,True
+Tai He Ju Dumplings House 泰禾居饺子馆,"10333 Garvey Ave, El Monte",4.9,1.0,True
+Hui Tou Xiang,"1643 N Cahuenga Blvd, Los Angeles",4.5,2.0,True
+Long Xing Ji Juicy Dumpling,"140 W Valley Blvd Ste 211, San Gabriel",4.1,2.0,True
+Din Tai Fung,"21540 Hawthorne Blvd #519, Torrance",4.6,2.0,True
+Dumpling Mix,"705 N Pacific Coast Hwy, Redondo Beach",4.3,2.0,True
+Dumpling House,"921 S Baldwin Ave, Arcadia",4.3,1.0,True
+ixlb Dimsum Eats,"5900 Sunset Blvd, Los Angeles",4.6,1.0,True
+Ma's Dumpling House,"627 N Euclid St, Anaheim",4.3,2.0,True
+Dumpling House,"3525 W 3rd St #6, Los Angeles",4.2,1.0,True
+Mama Lu's Dumpling House,"153 E Garvey Ave, Monterey Park",4.3,1.0,True
+JA Jiaozi Authentic Dumplings,"13776 Jamboree Rd, Irvine",4.4,2.0,True
+Mama Lu's Dumpling House,"501 W Garvey Ave, Monterey Park",4.2,1.0,True
+Dumpling Tops,"800 Fair Oaks Ave, South Pasadena",4.3,,True
+One Bite Dumpling一口香饺子坊,"23120 Lyons Ave Ste 6, Santa Clarita",4.5,2.0,True
+Mayflower Dumpling Express,"401 S Magnolia Ave, Anaheim",4.6,1.0,True
+Din Tai Fung,"1164 Galleria Way, Glendale",4.5,2.0,True
+Mason's Dumpling Shop,"5803 N Figueroa St, Los Angeles",4.4,1.0,True
+Mama Lu's Dumpling House,"2 E Colorado Blvd, Pasadena",4.0,2.0,True
+Jiou Chu Dumplings,"18156 Colima Rd, Rowland Heights",4.1,,True
+Mama Lu’s Dumpling House,"17515 Colima Rd B, City of Industry",4.1,2.0,True
+XLB Dumpling Bar,"18732 Amar Rd, Walnut",4.4,1.0,True
+Cali Dumpling,"149 N Glassell St, Orange",4.1,2.0,True
+Dumpling Monster,"7318 Santa Monica Blvd Suite 60, West Hollywood",4.1,2.0,True
+Mama Lu's Dumpling House,"700 N Spring St, Los Angeles",4.0,2.0,True
+Myungin Dumplings (+Chicken),"19520 Nordhoff St #4, Northridge",4.2,2.0,True
+Bafang Dumpling,"2153 Brea Mall, Brea",4.3,1.0,True
+Harbin Dumpling House 哈尔滨大院,"8526 Valley Blvd #113, Rosemead",5.0,2.0,True
+LUYU DUMPLINGS,"17980 Castleton St, City of Industry",4.6,2.0,True
+Yum Dumpling,"3910 E Chapman Ave, Orange",4.5,2.0,True
+Bafang Dumpling,"453 Los Cerritos Center, Cerritos",4.1,,True
+Din Tai Fung,"10250 Santa Monica Blvd Ste 2400, Los Angeles",4.5,2.0,True
+Luscious Dumplings,"919 W Duarte Rd, Monrovia",4.3,1.0,True
+Bafang Dumpling,"1552 S Azusa Ave suite b, City of Industry",4.2,1.0,True
+Peking Dumpling,"2740 W Olympic Blvd #3, Los Angeles",4.3,,True
+Din Tai Fung,"400 S Baldwin Ave #M5, Arcadia",4.5,2.0,True
+AFURI Ramen + Dumpling,"9300 Culver Blvd Unit 117, Culver City",4.2,,True
+Mad Dumplings - Long Beach,"5718 E 7th St, Long Beach",4.0,1.0,True
+Bafang Dumpling,"1693 Artesia Blvd, Gardena",4.4,,True
+Bafang Dumpling,"9571 Valley View St, Cypress",4.1,,True
+O Dumpling Bar,"165 N Glassell St, Orange",3.9,2.0,True
+Hui Tou Xiang Noodles House,"704 W Las Tunas Dr, San Gabriel",4.4,2.0,True
+Little Pan Santa Ana,"2 Hutton Centre Dr #202, Santa Ana",4.4,2.0,True
+Mama Lu’s Dumpling House,"17662 17th St, Tustin",4.0,2.0,True
+Myung In Dumplings,"3109 W Olympic Blvd B, Los Angeles",4.4,1.0,True
+BaFang Dumpling,"2923 Chino Ave h3, Chino Hills",4.1,,True
+Mandarin Noodle House,"701 W Garvey Ave, Monterey Park",4.6,,True
+Bao Dim Sum House,"8256 Beverly Blvd, Los Angeles",4.3,2.0,True
+Major Dumplings,"1241 Grand Ave a #A, Diamond Bar",4.6,2.0,True
+Sunny Dumpling House 小哥包子鋪,"24602 Raymond Way H, Lake Forest",4.5,2.0,True
+Dumpling Wei,"1535 E Colorado Blvd, Pasadena",4.3,2.0,True
+Dim Sum Dumpling House,"417 W Main St, Alhambra",4.6,,True
+ixlb Dimsum Eats,"5900 Sunset Blvd, Los Angeles",4.6,1.0,True
+Bao Dim Sum House,"8256 Beverly Blvd, Los Angeles",4.3,2.0,True
+Lunasia Dim Sum House,"500 W Main St, Alhambra",4.2,2.0,True
+The China Garden,"21618 Ventura Blvd, Woodland Hills",4.2,2.0,True
+Jiayuan Dumpling House,"1904 S Pacific Coast Hwy, Redondo Beach",4.7,2.0,True
+Dim Sum World,"2099 S Atlantic Blvd suite a, Monterey Park",4.3,1.0,True
+China Garden,"14825 Jeffrey Rd, Irvine",3.9,2.0,True
+Din Tai Fung,"21540 Hawthorne Blvd #519, Torrance",4.6,2.0,True
+One Bite Dumpling一口香饺子坊,"23120 Lyons Ave Ste 6, Santa Clarita",4.5,2.0,True
+Ma's Dumpling House,"627 N Euclid St, Anaheim",4.3,2.0,True
+Golden Dragon Restaurant,"960 N Broadway, Los Angeles",4.1,1.0,True
+Dumpling House,"921 S Baldwin Ave, Arcadia",4.3,1.0,True
+Lunasia Dim Sum House,"239 E Colorado Blvd, Pasadena",4.3,2.0,True
+Mama Lu's Dumpling House,"153 E Garvey Ave, Monterey Park",4.3,1.0,True
+Ocean Bo Dim Sum Cafe,"3948 Peck Rd, El Monte",4.3,1.0,True
+Atlantic Seafood and Dim Sum,"500 N Atlantic Blvd suite 200, Monterey Park",4.0,2.0,True
+Dim Sum House,"1822 Westwood Blvd, Los Angeles",4.0,2.0,True
+Din Tai Fung,"3333 Bristol St Ste Ste 2071, Costa Mesa",4.5,2.0,True
+Lunasia Dim Sum House,"2575 Pacific Coast Hwy, Torrance",4.2,2.0,True
+Mama Lu's Dumpling House,"501 W Garvey Ave, Monterey Park",4.2,1.0,True
+Chi's Chinese Cuisine,"9635 Reseda Blvd, Northridge",4.5,2.0,True
+Won Kok Restaurant,"210 Alpine St, Los Angeles",4.1,1.0,True
+JS Foothill Restaurant,"3591 E Foothill Blvd, Pasadena",4.8,2.0,True
+Mayflower Dumpling Express,"401 S Magnolia Ave, Anaheim",4.6,1.0,True
+Lunasia Dim Sum House,"11510 South St, Cerritos",4.2,2.0,True
+Capital Seafood Beverly Hills,"50 N La Cienega Blvd #130, Beverly Hills",4.3,2.0,True
+Sam Woo Cafe,"11688 South St #105, Artesia",4.3,2.0,True
+Mama Lu’s Dumpling House,"17662 17th St, Tustin",4.0,2.0,True
+Din Tai Fung,"1164 Galleria Way, Glendale",4.5,2.0,True
+Shanghai Rose,"12050 Ventura Blvd, Studio City",4.1,2.0,True
+Din Tai Fung,"400 S Baldwin Ave #M5, Arcadia",4.5,2.0,True
+Capital Noodle Bar Brea,"3477 E Imperial Hwy, Brea",4.3,2.0,True
+Major Dumplings,"1241 Grand Ave a #A, Diamond Bar",4.6,2.0,True
+dan modern chinese - pasadena,"146 S Lake Ave #105, Pasadena",4.3,2.0,True
+Seafood Cove 2,"9211 Bolsa Ave Suite 106, Westminster",4.3,2.0,True
+Capital Seafood Restaurant,"333 E Huntington Dr, Arcadia",4.3,2.0,True
+Bistro 1968,"402 S San Gabriel Blvd Ste A, San Gabriel",4.0,,True
+Yue Hai Restaurant,"1655 S Azusa Ave, Hacienda Heights",3.8,1.0,True
+Full Moon House,"960 N Hill St, Los Angeles",4.3,2.0,True
+Ho Sum Bistro,"3112 Newport Blvd, Newport Beach",4.4,1.0,True
+T.C.G. Dim Sum & Noodle House Valencia,"23460 Cinema Dr Unit C, Valencia",4.6,2.0,True
+NBC Seafood Restaurant,"404 S Atlantic Blvd, Monterey Park",4.3,2.0,True
+ixlb DimSum Eats,"10905 Lindbrook Dr, Los Angeles",4.4,1.0,True
+Din Tai Fung,"10250 Santa Monica Blvd Ste 2400, Los Angeles",4.5,2.0,True
+Szechwan Chinese Food,"2107 Pacific Coast Hwy, Lomita",4.4,2.0,True
+Moon House,"11058 Santa Monica Blvd, Los Angeles",4.3,2.0,True
+dan modern chinese - santa monica,"1403 2nd St, Santa Monica",4.3,2.0,True
+Golden Tree Restaurant,"640 North Broadway Situ1, 638 N Broadway, Los Angeles",4.5,2.0,True
+18 Folds,"430 S Anaheim Blvd, Anaheim",4.2,,True
+Tian's Dim Sum Restaurant,"809 N Hill St, Los Angeles",4.1,1.0,True
+Paradise Dynasty,"3333 Bristol Street, BLM, 1 Bloomingdale's, Costa Mesa",4.2,2.0,True
+Peking Restaurant,"8566 Westminster Blvd., Westminster",4.5,2.0,True
+Sea Empress Seafood,"1636 W Redondo Beach Blvd, Gardena",4.0,2.0,True
+Ping Pong Chinese Cuisine,"17267 Ventura Blvd, Encino",4.4,2.0,True
+Meizhou Express,"4518 Maine Ave, Baldwin Park",4.3,2.0,True
+Yang Chow Restaurant,"819 N Broadway, Los Angeles",4.5,2.0,True
+Hong Kong Dim Sum House,"827 W Las Tunas Dr, San Gabriel",4.6,1.0,False
+Long Xing Ji Juicy Dumpling,"140 W Valley Blvd Ste 211, San Gabriel",4.1,2.0,True
+Peking Dumpling,"2740 W Olympic Blvd #3, Los Angeles",4.3,,True
+Tasty Pot,"9250 Reseda Blvd #8, Northridge",4.5,1.0,True
+101 Pot All You Can Eat,"55 E Duarte Rd UNIT 101, Arcadia",4.3,,True
+5 POT,"748 E Colorado Blvd, Pasadena",4.8,1.0,True
+Blazin Shabu Shabu,"13018 Harbor Blvd, Garden Grove",4.4,,True
+MLBB AYCE Rowland Heights 马路边边麻辣燙,"18194 Colima Rd, Rowland Heights",4.2,1.0,True
+CHUAN POT,"2803 S Diamond Bar Blvd, Diamond Bar",4.3,1.0,True
+Tasty Pot,"18219 B Gale Ave, City of Industry",4.7,1.0,True
+Happy AYCE Hot Pot LA 开心火锅 洛杉矶店,"8772 Valley Blvd, Rosemead",4.4,2.0,True
+PiChaiYuan Hot Pot,"18406 Colima Rd E, Rowland Heights",4.7,,True
+吃货 Hot pot & BBQ,"500 E Valley Blvd Unit C&D, San Gabriel",4.6,2.0,True
+MLBB AYCE Hot Pot 马路边边直营店,"1056 Walnut Ave, Tustin",4.3,2.0,True
+Lao Ma Tou Hot Pot 老码头火锅 - Irvine,"4230 Barranca Pkwy, Irvine",4.5,,True
+Solo Hot Pot,"958 N Diamond Bar Blvd, Diamond Bar",4.7,1.0,True
+Yuan's Hotpot Los Angeles,"8752 Valley Blvd, Rosemead",4.4,2.0,True
+Haidilao Hot Pot Irvine,"2710 Alton Pkwy #215, Irvine",4.7,2.0,True
+HOT°C POT,"11095 Warner Ave, Fountain Valley",4.4,,True
+Fast Hotpot,"2419 Park Ave, Tustin",4.3,1.0,True
+MooMoo Hot Pot,"3967 Irvine Blvd, Irvine",4.6,,True
+Haidilao Hot Pot Century City,"10250 Santa Monica Blvd Ste 2610, Los Angeles",4.8,2.0,True
+Bon Shabu,"3454 Wilshire Blvd, Los Angeles",4.3,2.0,True
+Boiling Point Concept,"18 W Green St, Pasadena",4.3,2.0,True
+Nice to Meet You Skewer Hot Pot - Now AYCE,"15361 Culver Dr, Irvine",4.5,1.0,True
+Haidilao Hot Pot Arcadia,"400 S Baldwin Ave Suite 2015, Arcadia",4.6,3.0,True
+东镇炭火铜锅 East Town Hot Pot,"18268 Gale Ave B, City of Industry",4.5,1.0,True
+"Hot Pot, Hot Pot!","120 S Atlantic Blvd, Monterey Park",4.3,2.0,True
+Boiling Point,"18001 Pioneer Blvd C, Artesia",4.2,2.0,True
+Hot Pot City,"15606 Brookhurst St Suite E, Westminster",4.4,2.0,True
+Tasty Pot,"33 W Main St, Alhambra",4.3,2.0,True
+Boiling Pot And Boba Street,"19524 Nordhoff St ste#3, Northridge",4.3,1.0,True
+Haidilao Hot Pot City of Industry,"1560 S Azusa Ave Unit 178, City of Industry",4.8,2.0,True
+Zhangliang Spicy Hotpot (Rowland Heights),"1380 Fullerton Rd #104, Rowland Heights",4.9,1.0,True
+Monland Hot Pot City,"251 W Bencamp St, San Gabriel",4.3,1.0,True
+Ah Lien Hot Pot,"1722 Desire Ave #101, Rowland Heights",4.2,2.0,True
+Boiling Point,"14140 Culver Dr, Irvine",4.0,2.0,True
+AYCE Firecamp Hotpot & BBQ,"4595 Barranca Pkwy, Irvine",4.1,1.0,True
+Chong Qing YaoMei Hotpot,"55 W Green St, Pasadena",4.6,2.0,True
+Chun La Hao Chong Qing Hot Pot,"5701 Rosemead Blvd, Temple City",4.2,2.0,True
+Paper Pot Shabu Shabu,"20657 Golden Springs Dr UNIT 206, Diamond Bar",4.3,2.0,True
+Boiling Point,"13876 Brookhurst St #3173, Garden Grove",4.0,2.0,True
+Lao Ma Tou Hot Pot - Rowland Heights,"18938 Labin Ct #101A, Rowland Heights",4.1,1.0,True
+Boiling Point,"15488 S Western Ave, Gardena",4.2,2.0,True
+Happy Sheep Hot Pot,"US California Torrance, 3525 Pacific Coast Hwy, #O",4.2,2.0,True
+Boiling Point,"206 S 1st Ave, Arcadia",4.1,2.0,True
+shancheng lameizi hot pot,"14130 Culver Dr Unit L, Irvine",4.3,1.0,True
+Boiling Point,"153 W Garvey Ave, Monterey Park",4.0,2.0,True
+Boiling Point,"6018, 13089 Peyton Dr, Chino Hills",3.9,2.0,True
+Boiling Point,"1370 Fullerton Rd, Rowland Heights",4.0,2.0,True
+Pot on Fire & Tea Bar,"3926 Grand Ave F, Chino",4.1,2.0,True
+Love at the Curb（爱在马路边）,"301 W Valley Blvd Ste. #112, San Gabriel",4.9,1.0,True
+YinTang Spicy Hot Pot,"138 E Garvey Ave #C, Monterey Park",4.3,2.0,True
+Mokkoji Shabu Shabu,"9240 Garden Grove Blvd, Garden Grove",4.3,1.0,True
+Boiling Point,"2020 S Hacienda Blvd, Hacienda Heights",4.0,2.0,True
+Wagyu House by The X Pot,"18558 Gale Ave Suite 122-128, Rowland Heights",4.6,2.0,True
+Boiling Point,"12145 Valley View St unit 103, Garden Grove",4.0,2.0,True
+Qianlixiang spicy hot pot 천리향 마라탕,"3377 Wilshire Blvd #110, Los Angeles",4.4,2.0,True
+Dabin Kabob & Hotpot,"301 E Garvey Ave, Monterey Park",4.5,1.0,True
+Prime Hot Pot,"2415 Park Ave, Tustin",3.8,,True
+Pixiu Mala Hongtang,"425 S Western Ave STE # E, Los Angeles",4.3,1.0,True
+Shancheng Lameizi,"18932 Gale Ave, Rowland Heights",4.1,2.0,True
+Xiaolongkan Hot Pot,"46 W Valley Blvd, Alhambra",4.1,1.0,True
+Mandarin Noodle House,"701 W Garvey Ave, Monterey Park",4.6,,True
+Noodles Noodles,"15900 Crenshaw Blvd unit c, Gardena",4.6,2.0,True
+LAN NOODLE West Covina,"1428 S Azusa Ave Suite B, West Covina",4.2,2.0,True
+Capital Noodle Bar | Costa Mesa,"3033 Bristol St C, Costa Mesa",4.3,2.0,True
+NO. 1 NOODLE HOUSE,"18246 Gale Ave STE B, Rowland Heights",4.5,2.0,True
+Noodle St.,"2323 E Chapman Ave Ste B, Fullerton",4.4,2.0,True
+S.T. Noodle Bar,"4152 Norse Way, Long Beach",4.6,2.0,True
+Tasty Noodle House,"2373 Pacific Coast Hwy, Lomita",4.2,2.0,True
+Noodle Art,"6333 W 3rd St # 508, Los Angeles",4.6,1.0,True
+Noodle World,"932 Huntington Dr, San Marino",4.3,1.0,True
+Noodle World,"700 Valley Blvd, Alhambra",4.2,1.0,True
+Old Time Noodle House,"15325 S Western Ave, Gardena",4.3,1.0,True
+Sup Noodle Bar - Buena Park,"5141 Beach Blvd Unit B, Buena Park",4.5,2.0,True
+Noodle Art 一面之缘,"117 N Lincoln Ave, Monterey Park",4.1,2.0,True
+Mountain Noodles,"3377 Wilshire Blvd #100, Los Angeles",4.4,,True
+Venice Noodles,"10953 Venice Blvd., Los Angeles",4.4,2.0,True
+RiceString Noodle Shack,"11803 South St, Cerritos",4.5,1.0,True
+Tasty Noodle House - Irvine,"15333 Culver Dr #320, Irvine",4.0,1.0,True
+Noodle St,"120 W Foothill Blvd, Monrovia",4.5,2.0,True
+MR DRAGON NOODLE HOUSE,"8526 Valley Blvd #108, Rosemead",4.5,2.0,True
+Noodle St. Irvine,"3963 Irvine Blvd, Irvine",4.2,2.0,True
+Noodle World Jr.,"14622 Ventura Blvd #101, Sherman Oaks",4.2,1.0,True
+Noodle Monster,"5219 1/2 Laurel Canyon Blvd, Valley Village",4.4,1.0,True
+Noodle World,"1935 S Atlantic Blvd, Monterey Park",4.3,1.0,True
+101 Noodle Express,"1408 E Valley Blvd, Alhambra",4.0,1.0,True
+Casa Noodle Teriyaki,"5930 Main St, Los Angeles",4.5,1.0,True
+Mr. Noodle,"936 Broxton Ave, Los Angeles",4.3,2.0,True
+Thai Noodle King,"9887 Alondra Blvd, Bellflower",4.4,1.0,True
+Mr dragon noodle house,"20657 Golden Springs Dr #104-105, Diamond Bar",4.4,2.0,True
+noodle palace,"8518 Valley Blvd, Rosemead",4.5,2.0,True
+LA Kung Fu Noodle,"944 W Foothill Blvd, Claremont",4.7,,True
+Spicy Noodle House,"3314 S Bristol St, Santa Ana",4.4,1.0,True
+Noodle St,"87 E Colorado Blvd, Pasadena",4.4,2.0,True
+Tasty Noodle House - Hacienda Heights,"1611A S Azusa Ave, Hacienda Heights",4.1,1.0,True
+Qin West Noodle,"6200 Scholarship, Irvine",4.5,2.0,True
+Noodle St Arcadia,"400 S Baldwin Ave Ste M10, Arcadia",4.2,2.0,True
+NoodleMii,"1345 S Diamond Bar Blvd j, Diamond Bar",4.2,1.0,True
+Kaiju Noodle House,"1167 E Alosta Ave, Azusa",4.4,1.0,True
+LAN NOODLE,"7100 Santa Monica Blvd SUITE 130, West Hollywood",4.6,2.0,True
+Thai Noodle House,"14328 Telegraph Rd, Whittier",4.6,1.0,True
+The Noodle (Peyton Restaurant),"4183 Chino Hills Pkwy P, Chino Hills",4.0,2.0,True
+Capital Noodle Bar,"3850 Barranca Pkwy Suite E, Irvine",4.1,2.0,True
+Pa Ord Noodle,"5301 Sunset Blvd #8, Los Angeles",4.5,1.0,True
+Hollywood Noodle,"48 Live Oak Ave, Arcadia",4.1,1.0,True
+Lao Xi Noodle House,"921 S Baldwin Ave Ste G-H, Arcadia",4.5,1.0,True
+Watdongmoonlek Noodle,"4356 Fountain Ave, Los Angeles",4.6,1.0,True
+Tasty Noodle House,"2117 Sawtelle Blvd, Los Angeles",3.8,2.0,True
+The Noodle麵麵店,"19755 Colima Rd, Rowland Heights",3.7,2.0,True
+Cyclo Noodles,"4754 Pacific Coast Hwy, Long Beach",4.5,1.0,True
+Best Noodle House,"9329 Valley Blvd, Rosemead",4.3,1.0,True
+The Soup and Noodle,"807 N Tustin St, Orange",4.2,2.0,True
+Noodle World Jr,"8636 S Sepulveda Blvd, Los Angeles",4.0,2.0,True
+Tasty Noodle House,"2947 Chino Ave #3, Chino Hills",3.6,1.0,True
+101 Noodle Express,"1025 S Baldwin Ave, Arcadia",4.1,1.0,True
+Capital Noodle Bar Brea,"3477 E Imperial Hwy, Brea",4.3,2.0,True
+WeHo Thai Noodle & Rice,"7075 Sunset Blvd, Los Angeles",4.3,1.0,True
+SPICY NOODLE HOUSE,"68 Rio Rancho Rd #106, Pomona",4.4,2.0,True
+Qin West Noodle,"1767 Westwood Blvd, Los Angeles",4.5,1.0,True
+Wen Hui Noodle Hours,"644 W Garvey Ave, Monterey Park",4.3,2.0,True
+Noodle House,"958 E Garvey Ave, Monterey Park",3.3,1.0,True

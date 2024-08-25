@@ -1,0 +1,338 @@
+name,address,longitude,latitude,rating,price_level,user_ratings_total,open_now,types,category
+Golden Dragon Chinese,"1754 S Grand Ave, Glendora",-117.8722052,34.1068739,4.3,1.0,285,True,"meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Century Dragon,"3711 Magnolia Blvd, Burbank",-118.3475612,34.1679016,4.4,1.0,371,True,"restaurant, point_of_interest, food, establishment",restaurant
+China garden Chinese food,"1211 S Soto St, Los Angeles",-118.2198124,34.0278584,4.4,1.0,117,True,"restaurant, point_of_interest, food, establishment",restaurant
+Fat Dragon,"3500 Sunset Blvd, Los Angeles",-118.2768499,34.0885653,4.0,1.0,97,True,"restaurant, point_of_interest, food, establishment",restaurant
+Sea Dragon,"101 Vermont Ave, Los Angeles",-118.2922485,34.0725769,4.3,1.0,331,True,"restaurant, point_of_interest, food, establishment",restaurant
+First Szechuan Wok,"10855 Lindbrook Dr, Los Angeles",-118.4428398,34.0603338,4.0,2.0,169,True,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Golden Wok,"3403 W Slauson Ave, Los Angeles",-118.3312463,33.9891799,3.6,1.0,16,True,"restaurant, point_of_interest, food, establishment",restaurant
+Hong Kong Chinese Food,"12730 Hawthorne Blvd, Hawthorne",-118.3513145,33.9168461,3.8,1.0,206,True,"restaurant, point_of_interest, food, establishment",restaurant
+California Wok,"16656 Ventura Blvd, Encino",-118.4970023,34.1579444,4.2,1.0,194,True,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Oriental House,"2302 S La Cienega Blvd, Los Angeles",-118.3770218,34.0380831,4.3,1.0,134,True,"restaurant, point_of_interest, food, establishment",restaurant
+Daily China Express,"1907 Hillhurst Ave, Los Angeles",-118.2879573,34.1057682,4.4,1.0,189,True,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Wacky Wok - Westchester,"8919 S Sepulveda Blvd, Los Angeles",-118.3965301,33.9554328,3.9,1.0,312,True,"restaurant, point_of_interest, food, establishment",restaurant
+Wok on Soto,"305 N Soto St, Los Angeles",-118.2077355,34.0471985,4.3,1.0,235,True,"restaurant, point_of_interest, food, establishment",restaurant
+King Chinese Food,"4310 S Central Ave, Los Angeles",-118.2561996,34.0056144,4.0,1.0,70,True,"restaurant, point_of_interest, food, establishment",restaurant
+China Gate,"11814 Wilmington Ave, Los Angeles",-118.2386803,33.9253808,4.4,1.0,402,True,"restaurant, point_of_interest, food, establishment",restaurant
+China Kitchen,"1830 W Lincoln Ave, Anaheim",-117.947188,33.8319616,4.1,1.0,300,True,"meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Fine Wok,"1222 Pacific Coast Hwy, Harbor City",-118.2982651,33.7895717,4.4,1.0,89,True,"restaurant, point_of_interest, food, establishment",restaurant
+Orange Blossom Chinese Restaurant,"3804 E Chapman Ave b, Orange",-117.812509,33.7874296,4.5,1.0,70,True,"restaurant, point_of_interest, food, establishment",restaurant
+Le Oriental Bistro,"1710 Highland Ave, Los Angeles",-118.3385423,34.1020668,3.9,1.0,351,True,"restaurant, point_of_interest, food, establishment",restaurant
+Golden City Chinese Cuisine,"17719 Vanowen St, Reseda",-118.5191935,34.1940876,4.5,1.0,318,True,"meal_delivery, restaurant, point_of_interest, food, establishment",restaurant
+China Wok Express,"425 Imperial Hwy., Los Angeles",-118.265595,33.9312972,4.1,2.0,94,True,"restaurant, point_of_interest, food, establishment",restaurant
+China Express,"5440 S Central Ave, Los Angeles",-118.256147,33.993131,4.7,2.0,95,True,"restaurant, point_of_interest, food, establishment",restaurant
+China Garden,"14825 Jeffrey Rd, Irvine",-117.7708311,33.6879547,3.9,2.0,660,True,"restaurant, point_of_interest, food, establishment",restaurant
+Golden China Restaurant,"1115 Fair Oaks Ave, South Pasadena",-118.1515089,34.1134079,4.3,2.0,332,True,"restaurant, point_of_interest, food, establishment",restaurant
+Hong Kong Express,"261 E Adams Blvd, Los Angeles",-118.26539,34.0238516,4.4,1.0,159,True,"restaurant, point_of_interest, food, establishment",restaurant
+Super Wok Chinese Restaurant,"5418 Reseda Blvd, Tarzana",-118.5356991,34.1695009,4.4,1.0,613,True,"restaurant, point_of_interest, food, establishment",restaurant
+Jade Wok,"625 W College St #109, Los Angeles",-118.2407286,34.0653581,4.6,1.0,424,True,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Chinese Express,"4414 Avalon Blvd, Los Angeles",-118.2649764,34.0034205,4.6,1.0,191,True,"restaurant, point_of_interest, food, establishment",restaurant
+Golden Phoenix Chinese Restaurant,"4819 Paramount Blvd, Lakewood",-118.1604234,33.8461876,4.4,1.0,423,True,"meal_delivery, restaurant, point_of_interest, food, establishment",restaurant
+Little China Express,"3813 E Cesar E Chavez Ave, Los Angeles",-118.1841274,34.0407183,4.4,1.0,243,True,"restaurant, point_of_interest, food, establishment",restaurant
+China Express,"19417 Soledad Canyon Rd, Santa Clarita",-118.4751533,34.4164502,4.0,2.0,105,True,"restaurant, meal_delivery, meal_takeaway, point_of_interest, food, establishment",restaurant
+Go China Restaurant,"136 N Lake Ave, Pasadena",-118.1321666,34.1483394,4.4,2.0,377,True,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Sun Moon Garden,"1511 N San Fernando Blvd, Burbank",-118.3229711,34.1909464,4.3,1.0,282,True,"meal_delivery, restaurant, point_of_interest, food, establishment",restaurant
+Lucky Chinese Food,"18525 Brookhurst St, Fountain Valley",-117.9546944,33.6935482,4.5,1.0,772,True,"restaurant, point_of_interest, food, establishment",restaurant
+Golden Palace Chinese Restaurant,"9116 Telegraph Rd, Downey",-118.1083703,33.95937,4.3,2.0,715,True,"meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Golden Pheasant,"1077 W Carson St, Torrance",-118.2945068,33.8318064,4.4,2.0,770,True,"restaurant, point_of_interest, food, establishment",restaurant
+Hong Kong Express,"3330 W Florence Ave C, Los Angeles",-118.3304968,33.9743128,4.4,1.0,121,True,"restaurant, point_of_interest, food, establishment",restaurant
+Royal Wok Chinese Restaurant,"1868 N Tustin St, Orange",-117.8364407,33.819189,4.6,1.0,153,True,"restaurant, point_of_interest, food, establishment",restaurant
+New China Restaurant,"11121 1st Ave, Whittier",-117.9865225,33.9319045,4.6,1.0,50,True,"restaurant, point_of_interest, food, establishment",restaurant
+China Lites,"5424 Laurel Canyon Blvd c, Valley Village",-118.3961408,34.1693896,4.4,2.0,168,True,"restaurant, point_of_interest, food, establishment",restaurant
+China Palace Restaurant,"13444 Newport Ave # C, Tustin",-117.8157776,33.7438628,4.4,2.0,454,True,"bar, restaurant, point_of_interest, food, establishment",restaurant
+The China Garden,"21618 Ventura Blvd, Woodland Hills",-118.6004278,34.1680215,4.2,2.0,73,True,"restaurant, point_of_interest, food, establishment",restaurant
+New Flavors,"4135 S Centinela Ave, Los Angeles",-118.4278923,33.9961984,4.2,1.0,370,True,"meal_delivery, restaurant, point_of_interest, food, establishment",restaurant
+New Moon,"2138 Verdugo Blvd, Montrose",-118.2244072,34.2046376,4.5,2.0,756,True,"bar, restaurant, point_of_interest, food, establishment",restaurant
+Oriental Chinese Restaurant,"2380 W Whittier Blvd, La Habra",-117.9729981,33.9396556,4.4,1.0,335,True,"restaurant, point_of_interest, food, establishment",restaurant
+Hong Kong Express,"10311 Avalon Blvd, Los Angeles",-118.2656342,33.9424762,3.7,,86,True,"restaurant, point_of_interest, food, establishment",restaurant
+Chinese Express,"2016 N Main St, Los Angeles",-118.2158278,34.0658609,4.5,,28,True,"restaurant, point_of_interest, food, establishment",restaurant
+Peking Restaurant,"8566 Westminster Blvd., Westminster",-117.9794089,33.7587927,4.5,2.0,304,True,"restaurant, point_of_interest, food, establishment",restaurant
+Hong Kong Express,"1905 S Western Ave #1, Los Angeles",-118.309242,34.039527,4.0,1.0,107,True,"restaurant, point_of_interest, food, establishment",restaurant
+Royal Dragon Chinese Restaurant,"21101 Sherman Way, Canoga Park",-118.5929772,34.2015826,4.4,1.0,129,True,"meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Chinese Deli,"537 E Sepulveda Blvd, Carson",-118.2652146,33.8085099,4.4,1.0,235,True,"restaurant, point_of_interest, food, store, establishment",restaurant
+China Express,"11845 Braddock Dr, Los Angeles",-118.4142555,33.9934052,4.0,1.0,106,True,"restaurant, point_of_interest, food, establishment",restaurant
+Jin's Chinese Kitchen,"1930 W Olympic Blvd, Los Angeles",-118.2786,34.0507926,4.6,2.0,78,True,"restaurant, point_of_interest, food, establishment",restaurant
+Lucky Chinese Food,"2509 W McFadden Ave F, Santa Ana",-117.9032267,33.7351379,4.4,1.0,338,True,"restaurant, point_of_interest, food, establishment",restaurant
+China Chef's Express Chinese Food,"2020 S Central Ave, Los Angeles",-118.2516824,34.0230375,4.1,,94,True,"restaurant, point_of_interest, food, establishment",restaurant
+Mandarin Wong Chinese Restaurant,"23758 Lyons Ave, Newhall",-118.5508685,34.3789564,4.4,1.0,388,True,"restaurant, point_of_interest, food, establishment",restaurant
+China Bistro,"8310 Valley Blvd, Rosemead",-118.0875653,34.0801152,4.3,,109,True,"restaurant, point_of_interest, food, establishment",restaurant
+Fortune House Chinese Cuisine,"6031 San Vicente Blvd, Los Angeles",-118.3626029,34.0583447,4.3,2.0,385,True,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Wok On Fire,"1447 S La Cienega Blvd, Los Angeles",-118.3765346,34.0520124,4.3,2.0,245,True,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Szechuwan Garden Restaurant - Authentic Chinese Food in Canoga Park,"8399 CA-27, Canoga Park",-118.6068876,34.2218046,4.1,1.0,300,True,"meal_delivery, restaurant, point_of_interest, food, establishment",restaurant
+It's Boba Time Vermont,"701 S Vermont Ave, Los Angeles",-118.2921947,34.059611,4.5,1.0,1531,True,"cafe, food, point_of_interest, store, establishment",drinking
+Gong Cha,"318 E 2nd St A, Los Angeles",-118.2412631,34.04880310000001,4.3,1.0,233,True,"cafe, food, point_of_interest, store, establishment",drinking
+Tan-Cha,"3401-3413 W 6th St, Los Angeles",-118.2958953,34.0637329,4.3,1.0,242,True,"cafe, food, point_of_interest, establishment",drinking
+Cha For Tea - Long Beach,"5720 E 7th St, Long Beach",-118.119991,33.7748352,4.4,1.0,552,True,"meal_takeaway, cafe, restaurant, food, point_of_interest, establishment",restaurant
+Tiger Sugar,"18330 Colima Rd, Rowland Heights",-117.904586,33.9881034,4.1,1.0,489,True,"cafe, food, point_of_interest, establishment",drinking
+Bubble Boba,"2829 Ocean Park Blvd, Santa Monica",-118.455094,34.0194727,4.4,1.0,118,True,"cafe, food, point_of_interest, establishment",drinking
+It's Boba Time,"704 N Vermont Ave, Los Angeles",-118.2912767,34.0839178,4.5,1.0,529,True,"cafe, food, point_of_interest, establishment",drinking
+It's Boba Time,"125 N Western Ave, Los Angeles",-118.3094132,34.0737898,4.3,1.0,392,True,"cafe, food, point_of_interest, establishment",drinking
+It's Boba Time,"6660 Sunset Blvd suite q, Los Angeles",-118.3358744,34.097789,4.4,1.0,459,True,"cafe, food, point_of_interest, establishment",drinking
+It’s Boba Time - Rolling Hills Estates,"27 Peninsula Center, Rolling Hills Estates",-118.3768745,33.77440199999999,4.3,1.0,91,True,"cafe, food, point_of_interest, establishment",drinking
+Tiger Sugar,"3465 W 6th St #120, Los Angeles",-118.2973753,34.0640763,4.2,1.0,112,True,"cafe, food, point_of_interest, establishment",drinking
+Bubble Republic,"800 W Las Tunas Dr #100, San Gabriel",-118.1112024,34.1021307,4.3,1.0,232,True,"cafe, restaurant, food, point_of_interest, establishment",restaurant
+It's Boba Time- Glendale Marketplace,"136 S Brand Blvd, Glendale",-118.2540709,34.1453724,4.2,1.0,302,True,"cafe, food, point_of_interest, establishment",drinking
+It's Boba Time,"3450 W 6th St Ste 111, Los Angeles",-118.2971356,34.0634655,4.1,1.0,476,True,"cafe, food, point_of_interest, store, establishment",drinking
+Cha For Tea - University Center,"4187 Campus Dr Suite M173, Irvine",-117.8389509,33.6507179,4.3,1.0,511,True,"meal_takeaway, cafe, restaurant, food, point_of_interest, establishment",restaurant
+It's Boba Time -Irvine,"3905 Irvine Blvd, Irvine",-117.7732179,33.7234532,4.3,1.0,153,True,"cafe, food, point_of_interest, establishment",drinking
+Pot of Cha,"3013 S Figueroa St, Los Angeles",-118.2787091,34.0249363,4.6,1.0,277,True,"cafe, food, point_of_interest, store, establishment",drinking
+Hello Boba,"11230 Garvey Ave #C, El Monte",-118.0311685,34.062467,4.7,1.0,189,True,"cafe, food, point_of_interest, establishment",drinking
+It's Boba Time Dewey,"2848 W Olympic Blvd, Los Angeles",-118.296157,34.0525126,4.4,1.0,396,True,"cafe, food, point_of_interest, establishment",drinking
+Sharetea,"1055 Broxton Ave, Los Angeles",-118.4464805,34.0614825,4.5,1.0,176,True,"cafe, food, point_of_interest, store, establishment",drinking
+Sharetea,"11900 South St #106, Cerritos",-118.0803959,33.8579324,4.6,1.0,501,True,"cafe, point_of_interest, food, establishment",drinking
+Tea Maru - Housemade Boba,"709 W Las Tunas Dr, San Gabriel",-118.1104736,34.1027705,4.2,1.0,298,True,"cafe, point_of_interest, food, store, establishment",drinking
+It’s Boba Time,"1001 S Alvarado St, Los Angeles",-118.2803892,34.0517505,4.5,1.0,702,True,"cafe, point_of_interest, food, store, establishment",drinking
+Feng Cha Teahouse - Costa Mesa,"891 Baker St Ste A18, Costa Mesa",-117.8935517,33.6794268,4.5,1.0,226,True,"cafe, point_of_interest, food, store, establishment",drinking
+CrafTea,"4161 Ball Rd, Cypress",-118.0598608,33.8184529,4.3,1.0,74,True,"cafe, point_of_interest, food, establishment",drinking
+It's Boba Time,"3617 Vermont Ave #3945, Los Angeles",-118.2921847,34.0224659,4.3,1.0,986,True,"cafe, point_of_interest, food, establishment",drinking
+Bubble Puff & Tea Cafe,"1543 E Colorado Blvd, Pasadena",-118.1185753,34.1462639,4.4,1.0,125,True,"cafe, restaurant, point_of_interest, food, establishment",restaurant
+Tan-Cha,"227 W Valley Blvd #118, San Gabriel",-118.1029291,34.0799215,4.1,1.0,284,True,"cafe, point_of_interest, food, establishment",drinking
+FourTea,"870 N Tustin St, Orange",-117.836283,33.8013617,4.6,1.0,152,True,"cafe, point_of_interest, food, establishment",drinking
+Chala Boba,"16045 Sherman Way Ste #K, Van Nuys",-118.4831332,34.2013848,4.6,1.0,103,True,"cafe, restaurant, point_of_interest, food, store, establishment",restaurant
+I Love Boba,"1001 Vermont Ave, Los Angeles",-118.2919929,34.0518205,4.4,1.0,261,True,"cafe, point_of_interest, food, store, establishment",drinking
+I Love Boba,"3512 W 8th St, Los Angeles",-118.3072853,34.0572963,4.5,1.0,197,True,"cafe, point_of_interest, food, store, establishment",drinking
+Teaspoon Sawtelle,"1947 Sawtelle Blvd Suite E, Los Angeles",-118.4441374,34.0408691,4.7,1.0,439,True,"cafe, point_of_interest, food, store, establishment",drinking
+BobaPOP Tea Bar,"8744 Garden Grove Blvd, Garden Grove",-117.9797161,33.7734167,4.3,1.0,134,True,"cafe, point_of_interest, food, store, establishment",drinking
+It's boba time,"9 E Main St, Alhambra",-118.1266924,34.095704,4.3,1.0,23,True,"cafe, point_of_interest, food, establishment",drinking
+Ding Tea Hawthorne,"5263 Rosecrans Ave, Hawthorne",-118.3720697,33.9026144,4.5,1.0,186,True,"cafe, point_of_interest, food, store, establishment",drinking
+Boba Junkie,"1200 W Warner Ave b, Santa Ana",-117.8838721,33.7157865,4.4,1.0,278,True,"cafe, point_of_interest, food, store, establishment",drinking
+Sharetea Santa Monica,"113 Broadway, Santa Monica",-118.4962169,34.0132131,4.4,1.0,69,True,"cafe, point_of_interest, food, establishment",drinking
+It's Boba Time Highland,"5001 Wilshire Blvd Unit 105, Los Angeles",-118.3393022,34.0626722,4.3,1.0,276,True,"cafe, point_of_interest, food, store, establishment",drinking
+Boba Cha Cha,"12906 Victory Blvd, Valley Glen",-118.4142968,34.1864,4.6,1.0,212,True,"cafe, point_of_interest, food, establishment",drinking
+Black Pearl Tea House,"12911 Magnolia St A, Garden Grove",-117.9758557,33.7750395,4.2,1.0,162,True,"cafe, point_of_interest, food, establishment",drinking
+Just Boba Tea House,"952 Gayley Ave, Los Angeles",-118.4481688,34.0629402,4.1,1.0,73,True,"cafe, point_of_interest, food, establishment",drinking
+It's Boba Time - Little Tokyo,"372 E 2nd St, Los Angeles",-118.2396919,34.0477722,3.7,1.0,208,True,"cafe, point_of_interest, food, establishment",drinking
+Volcano Tea House,"2111 Sawtelle Blvd, Los Angeles",-118.4425119,34.0391167,4.4,1.0,560,True,"cafe, store, point_of_interest, food, establishment",drinking
+Cha For Tea - Woodbridge Village Center,"4740 Barranca Pkwy Suite 4740, Irvine",-117.7994717,33.6769807,4.2,1.0,236,True,"meal_takeaway, cafe, restaurant, point_of_interest, food, establishment",restaurant
+Tea Maru - Housemade Boba,"724 S Spring St #107, Los Angeles",-118.2525938,34.0438135,3.8,1.0,55,True,"cafe, point_of_interest, food, establishment",drinking
+Urban Location Boba Tea House Garden Grove,"10872 Westminster Ave #103, Garden Grove",-117.9393704,33.7593147,4.1,1.0,430,True,"meal_takeaway, cafe, store, restaurant, point_of_interest, food, establishment",restaurant
+ALittle Tea,"158 W Valley Blvd, San Gabriel",-118.1021457,34.0794787,4.7,1.0,418,True,"cafe, point_of_interest, food, establishment",drinking
+Presotea Westminster,"9211 Bolsa Ave suite 105, Westminster",-117.968068,33.7452998,4.6,1.0,156,True,"cafe, store, restaurant, point_of_interest, food, establishment",restaurant
+WUSHILAND BOBA WCC,"10250 Santa Monica Blvd Suite 2770, Los Angeles",-118.4199591,34.0593679,4.2,1.0,143,True,"cafe, point_of_interest, food, establishment",drinking
+Kung Fu Tea Westminster,"9709 Bolsa Ave, Westminster",-117.9600484,33.7457477,4.2,1.0,179,True,"cafe, restaurant, point_of_interest, food, establishment",restaurant
+CHUBBI TEA SHOPPE,"9772 Garden Grove Blvd STE 1, Garden Grove",-117.9617993,33.7730287,4.5,1.0,35,True,"cafe, store, point_of_interest, food, establishment",drinking
+Wushiland Boba,"140 W Valley Blvd Ste 104, San Gabriel",-118.102141,34.0788371,4.3,1.0,456,True,"cafe, point_of_interest, food, establishment",drinking
+Quickly Rowland Heights,"18353 Colima Rd, Rowland Heights",-117.9046163,33.9886644,4.3,1.0,156,True,"cafe, store, point_of_interest, food, establishment",drinking
+Tapioca Express,"228 W Valley Blvd STE 105, Alhambra",-118.124841,34.0783127,4.1,1.0,73,True,"meal_takeaway, cafe, restaurant, point_of_interest, food, establishment",restaurant
+Ding Tea Bixby Knolls Long Beach,"3908 Atlantic Ave, Long Beach",-118.1848096,33.8294268,4.4,1.0,48,True,"cafe, restaurant, point_of_interest, food, establishment",restaurant
+Boba Tea & Me,"1328 Wilshire Blvd, Santa Monica",-118.4889867,34.0264846,4.2,1.0,153,True,"cafe, point_of_interest, food, establishment",drinking
+Boba Time,"11207 National Blvd, Los Angeles",-118.4294492,34.0274306,2.9,1.0,276,True,"cafe, store, point_of_interest, food, establishment",drinking
+CHApu TeaShoppe,"8450 Garvey Ave Suit 102b, Rosemead",-118.0845595,34.0623932,3.9,1.0,14,True,"cafe, point_of_interest, food, establishment",drinking
+"Y Tea Cafe: Boba, Fries, Crawfish","14291 N Euclid St Ste D105, Garden Grove",-117.9383976,33.7552427,4.4,1.0,235,True,"cafe, store, restaurant, point_of_interest, food, establishment",restaurant
+Dim Sum Dumpling House,"417 W Main St, Alhambra",-118.131732,34.0931015,4.6,,11,True,"restaurant, point_of_interest, food, establishment",restaurant
+Juicy Dumpling Factory,"6100 Warner Ave UNIT 103, Huntington Beach",-118.0224055,33.7151296,4.4,2.0,48,True,"restaurant, point_of_interest, food, establishment",restaurant
+Super Dumpling,"1500 E Village Way #2197, Orange",-117.8373944,33.8257341,4.6,2.0,89,True,"restaurant, point_of_interest, food, establishment",restaurant
+Dumpling Queen,"16244 Whittier Blvd, Whittier",-117.9841483,33.9404298,4.6,1.0,31,True,"restaurant, point_of_interest, food, establishment",restaurant
+Jia Yan Dumpling,"106 W Foothill Blvd, Glendora",-117.8658789,34.1353966,5.0,2.0,17,True,"restaurant, point_of_interest, food, establishment",restaurant
+Jiayuan Dumpling House,"1904 S Pacific Coast Hwy, Redondo Beach",-118.3766824,33.8163305,4.7,2.0,155,True,"restaurant, point_of_interest, food, establishment",restaurant
+"Super Juicy Dumpling [Brea, CA]","2445 E Imperial Hwy a, Brea",-117.8674869,33.9126257,4.2,2.0,476,True,"restaurant, point_of_interest, food, establishment",restaurant
+Prince Dumpling,"8801 Valley Blvd, Rosemead",-118.0774716,34.0816534,4.5,,80,True,"restaurant, point_of_interest, food, establishment",restaurant
+Tian You Feng Dumpling House,"1428 S Azusa Ave Ste A, West Covina",-117.9076445,34.0477113,4.4,2.0,151,True,"meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Bafang Dumpling,"21215 Hawthorne Blvd, Torrance",-118.3548836,33.8368804,4.2,,30,True,"restaurant, point_of_interest, food, establishment",restaurant
+Tai He Ju Dumplings House 泰禾居饺子馆,"10333 Garvey Ave, El Monte",-118.0454544,34.0630515,4.9,1.0,41,True,"restaurant, point_of_interest, food, establishment",restaurant
+Hui Tou Xiang,"1643 N Cahuenga Blvd, Los Angeles",-118.329691,34.1010182,4.5,2.0,188,True,"restaurant, point_of_interest, food, establishment",restaurant
+Long Xing Ji Juicy Dumpling,"140 W Valley Blvd Ste 211, San Gabriel",-118.102016,34.078219,4.1,2.0,426,True,"restaurant, point_of_interest, food, establishment",restaurant
+Din Tai Fung,"21540 Hawthorne Blvd #519, Torrance",-118.3507414,33.8333502,4.6,2.0,2377,True,"restaurant, point_of_interest, food, establishment",restaurant
+Dumpling Mix,"705 N Pacific Coast Hwy, Redondo Beach",-118.3899063,33.8530532,4.3,2.0,24,True,"restaurant, point_of_interest, food, establishment",restaurant
+Dumpling House,"921 S Baldwin Ave, Arcadia",-118.0548796,34.1294354,4.3,1.0,429,True,"meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+ixlb Dimsum Eats,"5900 Sunset Blvd, Los Angeles",-118.318129,34.0978983,4.6,1.0,696,True,"restaurant, point_of_interest, food, establishment",restaurant
+Ma's Dumpling House,"627 N Euclid St, Anaheim",-117.9438326,33.8403667,4.3,2.0,298,True,"restaurant, point_of_interest, food, establishment",restaurant
+Dumpling House,"3525 W 3rd St #6, Los Angeles",-118.292356,34.0692874,4.2,1.0,305,True,"restaurant, point_of_interest, food, establishment",restaurant
+Mama Lu's Dumpling House,"153 E Garvey Ave, Monterey Park",-118.1215473,34.0626531,4.3,1.0,2560,True,"restaurant, point_of_interest, food, establishment",restaurant
+JA Jiaozi Authentic Dumplings,"13776 Jamboree Rd, Irvine",-117.7896593,33.7233265,4.4,2.0,430,True,"restaurant, food, point_of_interest, establishment",restaurant
+Mama Lu's Dumpling House,"501 W Garvey Ave, Monterey Park",-118.1293009,34.0626644,4.2,1.0,1527,True,"restaurant, food, point_of_interest, establishment",restaurant
+Dumpling Tops,"800 Fair Oaks Ave, South Pasadena",-118.1501373,34.1167016,4.3,,4,True,"restaurant, food, point_of_interest, establishment",restaurant
+One Bite Dumpling一口香饺子坊,"23120 Lyons Ave Ste 6, Santa Clarita",-118.5371518,34.3796187,4.5,2.0,215,True,"restaurant, food, point_of_interest, establishment",restaurant
+Mayflower Dumpling Express,"401 S Magnolia Ave, Anaheim",-117.976249,33.826985,4.6,1.0,191,True,"restaurant, food, point_of_interest, establishment",restaurant
+Din Tai Fung,"1164 Galleria Way, Glendale",-118.2584625,34.144031,4.5,2.0,2405,True,"restaurant, food, point_of_interest, establishment",restaurant
+Mason's Dumpling Shop,"5803 N Figueroa St, Los Angeles",-118.1919093,34.1105665,4.4,1.0,292,True,"restaurant, food, point_of_interest, establishment",restaurant
+Mama Lu's Dumpling House,"2 E Colorado Blvd, Pasadena",-118.1503311,34.1456235,4.0,2.0,84,True,"restaurant, food, point_of_interest, establishment",restaurant
+Jiou Chu Dumplings,"18156 Colima Rd, Rowland Heights",-117.9076185,33.9881717,4.1,,139,True,"restaurant, food, point_of_interest, establishment",restaurant
+Mama Lu’s Dumpling House,"17515 Colima Rd B, City of Industry",-117.9236267,33.9914669,4.1,2.0,286,True,"restaurant, food, point_of_interest, establishment",restaurant
+XLB Dumpling Bar,"18732 Amar Rd, Walnut",-117.8934285,34.0267486,4.4,1.0,337,True,"restaurant, food, point_of_interest, establishment",restaurant
+Cali Dumpling,"149 N Glassell St, Orange",-117.8528697,33.789145,4.1,2.0,20,True,"restaurant, food, point_of_interest, establishment",restaurant
+Dumpling Monster,"7318 Santa Monica Blvd Suite 60, West Hollywood",-118.3497463,34.0902006,4.1,2.0,122,True,"restaurant, meal_takeaway, meal_delivery, food, point_of_interest, establishment",restaurant
+Mama Lu's Dumpling House,"700 N Spring St, Los Angeles",-118.2375705,34.0599178,4.0,2.0,165,True,"restaurant, food, point_of_interest, establishment",restaurant
+Myungin Dumplings (+Chicken),"19520 Nordhoff St #4, Northridge",-118.5582082,34.2342974,4.2,2.0,217,True,"restaurant, food, point_of_interest, establishment",restaurant
+Bafang Dumpling,"2153 Brea Mall, Brea",-117.8860274,33.9158377,4.3,1.0,20,True,"restaurant, food, point_of_interest, establishment",restaurant
+Harbin Dumpling House 哈尔滨大院,"8526 Valley Blvd #113, Rosemead",-118.0829037,34.0801549,5.0,2.0,2,True,"restaurant, food, point_of_interest, establishment",restaurant
+LUYU DUMPLINGS,"17980 Castleton St, City of Industry",-117.9127254,33.9920111,4.6,2.0,207,True,"restaurant, food, point_of_interest, establishment",restaurant
+Yum Dumpling,"3910 E Chapman Ave, Orange",-117.8117659,33.7874348,4.5,2.0,101,True,"restaurant, food, point_of_interest, establishment",restaurant
+Bafang Dumpling,"453 Los Cerritos Center, Cerritos",-118.092912,33.86041489999999,4.1,,21,True,"restaurant, food, point_of_interest, establishment",restaurant
+Din Tai Fung,"10250 Santa Monica Blvd Ste 2400, Los Angeles",-118.4172774,34.0581938,4.5,2.0,2122,True,"restaurant, point_of_interest, food, establishment",restaurant
+Luscious Dumplings,"919 W Duarte Rd, Monrovia",-118.0182427,34.1317838,4.3,1.0,253,True,"restaurant, point_of_interest, food, establishment",restaurant
+Bafang Dumpling,"1552 S Azusa Ave suite b, City of Industry",-117.9309385,33.9942663,4.2,1.0,337,True,"restaurant, point_of_interest, food, establishment",restaurant
+Peking Dumpling,"2740 W Olympic Blvd #3, Los Angeles",-118.2930657,34.0520068,4.3,,20,True,"restaurant, point_of_interest, food, establishment",restaurant
+Din Tai Fung,"400 S Baldwin Ave #M5, Arcadia",-118.0518497,34.1350325,4.5,2.0,2393,True,"restaurant, point_of_interest, food, establishment",restaurant
+AFURI Ramen + Dumpling,"9300 Culver Blvd Unit 117, Culver City",-118.3933009,34.0246419,4.2,,81,True,"restaurant, point_of_interest, food, establishment",restaurant
+Mad Dumplings - Long Beach,"5718 E 7th St, Long Beach",-118.1200698,33.7748327,4.0,1.0,50,True,"restaurant, point_of_interest, food, establishment",restaurant
+Bafang Dumpling,"1693 Artesia Blvd, Gardena",-118.3064735,33.8733243,4.4,,69,True,"restaurant, point_of_interest, food, establishment",restaurant
+Bafang Dumpling,"9571 Valley View St, Cypress",-118.0286264,33.8226958,4.1,,19,True,"restaurant, point_of_interest, food, establishment",restaurant
+O Dumpling Bar,"165 N Glassell St, Orange",-117.852801,33.7893428,3.9,2.0,135,True,"restaurant, point_of_interest, food, establishment",restaurant
+Hui Tou Xiang Noodles House,"704 W Las Tunas Dr, San Gabriel",-118.1099215,34.1020318,4.4,2.0,211,True,"restaurant, point_of_interest, food, establishment",restaurant
+Little Pan Santa Ana,"2 Hutton Centre Dr #202, Santa Ana",-117.865009,33.6996043,4.4,2.0,403,True,"restaurant, point_of_interest, food, establishment",restaurant
+Mama Lu’s Dumpling House,"17662 17th St, Tustin",-117.8236034,33.7590027,4.0,2.0,133,True,"restaurant, point_of_interest, food, establishment",restaurant
+Myung In Dumplings,"3109 W Olympic Blvd B, Los Angeles",-118.3035009,34.0528785,4.4,1.0,713,True,"restaurant, point_of_interest, food, establishment",restaurant
+BaFang Dumpling,"2923 Chino Ave h3, Chino Hills",-117.7417813,34.009472,4.1,,86,True,"restaurant, point_of_interest, food, establishment",restaurant
+Mandarin Noodle House,"701 W Garvey Ave, Monterey Park",-118.1322099,34.0626207,4.6,,676,True,"restaurant, point_of_interest, food, establishment",restaurant
+Bao Dim Sum House,"8256 Beverly Blvd, Los Angeles",-118.369861,34.075852,4.3,2.0,1167,True,"bar, restaurant, point_of_interest, food, establishment",restaurant
+Major Dumplings,"1241 Grand Ave a #A, Diamond Bar",-117.8094522,34.0000269,4.6,2.0,29,True,"meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Sunny Dumpling House 小哥包子鋪,"24602 Raymond Way H, Lake Forest",-117.7021243,33.6207813,4.5,2.0,213,True,"restaurant, point_of_interest, food, establishment",restaurant
+Dumpling Wei,"1535 E Colorado Blvd, Pasadena",-118.1186872,34.1462351,4.3,2.0,62,True,"restaurant, point_of_interest, food, establishment",restaurant
+Lunasia Dim Sum House,"500 W Main St, Alhambra",-118.1321981,34.0922794,4.2,2.0,1464,True,"restaurant, point_of_interest, food, establishment",restaurant
+Dim Sum World,"2099 S Atlantic Blvd suite a, Monterey Park",-118.143868,34.0399093,4.3,1.0,113,True,"restaurant, point_of_interest, food, establishment",restaurant
+Golden Dragon Restaurant,"960 N Broadway, Los Angeles",-118.2363889,34.0655556,4.1,1.0,1454,True,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",restaurant
+Lunasia Dim Sum House,"239 E Colorado Blvd, Pasadena",-118.1455119,34.1461177,4.3,2.0,1273,True,"restaurant, point_of_interest, food, establishment",restaurant
+Ocean Bo Dim Sum Cafe,"3948 Peck Rd, El Monte",-118.021158,34.0768599,4.3,1.0,851,True,"restaurant, point_of_interest, food, establishment",restaurant
+Atlantic Seafood and Dim Sum,"500 N Atlantic Blvd suite 200, Monterey Park",-118.1336572,34.0694168,4.0,2.0,193,True,"restaurant, point_of_interest, food, establishment",restaurant
+Dim Sum House,"1822 Westwood Blvd, Los Angeles",-118.4359369,34.0492685,4.0,2.0,176,True,"restaurant, point_of_interest, food, establishment",restaurant
+Din Tai Fung,"3333 Bristol St Ste Ste 2071, Costa Mesa",-117.8880852,33.6916745,4.5,2.0,3625,True,"restaurant, point_of_interest, food, establishment",restaurant
+Lunasia Dim Sum House,"2575 Pacific Coast Hwy, Torrance",-118.3293561,33.7911424,4.2,2.0,170,True,"restaurant, point_of_interest, food, establishment",restaurant
+Chi's Chinese Cuisine,"9635 Reseda Blvd, Northridge",-118.5370086,34.2456698,4.5,2.0,651,True,"restaurant, food, point_of_interest, establishment",restaurant
+Won Kok Restaurant,"210 Alpine St, Los Angeles",-118.2376183,34.0619013,4.1,1.0,2876,True,"restaurant, food, point_of_interest, establishment",restaurant
+JS Foothill Restaurant,"3591 E Foothill Blvd, Pasadena",-118.0755727,34.151169,4.8,2.0,26,True,"meal_takeaway, restaurant, food, point_of_interest, establishment",restaurant
+Lunasia Dim Sum House,"11510 South St, Cerritos",-118.0884462,33.8580674,4.2,2.0,560,True,"restaurant, food, point_of_interest, establishment",restaurant
+Capital Seafood Beverly Hills,"50 N La Cienega Blvd #130, Beverly Hills",-118.3760051,34.0672905,4.3,2.0,399,True,"restaurant, food, point_of_interest, establishment",restaurant
+Sam Woo Cafe,"11688 South St #105, Artesia",-118.0847881,33.8572845,4.3,2.0,113,True,"restaurant, food, point_of_interest, establishment",restaurant
+Shanghai Rose,"12050 Ventura Blvd, Studio City",-118.3946552,34.1428798,4.1,2.0,487,True,"meal_delivery, restaurant, food, point_of_interest, establishment",restaurant
+Capital Noodle Bar Brea,"3477 E Imperial Hwy, Brea",-117.85,33.9083333,4.3,2.0,313,True,"restaurant, food, point_of_interest, establishment",restaurant
+dan modern chinese - pasadena,"146 S Lake Ave #105, Pasadena",-118.1317237,34.1430637,4.3,2.0,266,True,"restaurant, food, point_of_interest, establishment",restaurant
+Seafood Cove 2,"9211 Bolsa Ave Suite 106, Westminster",-117.9679996,33.7451765,4.3,2.0,2050,True,"restaurant, food, point_of_interest, establishment",restaurant
+Capital Seafood Restaurant,"333 E Huntington Dr, Arcadia",-118.0226346,34.1403874,4.3,2.0,727,True,"restaurant, food, point_of_interest, establishment",restaurant
+Bistro 1968,"402 S San Gabriel Blvd Ste A, San Gabriel",-118.0907265,34.0977157,4.0,,197,True,"restaurant, food, point_of_interest, establishment",restaurant
+Yue Hai Restaurant,"1655 S Azusa Ave, Hacienda Heights",-117.9334418,33.992006,3.8,1.0,340,True,"restaurant, food, point_of_interest, establishment",restaurant
+Full Moon House,"960 N Hill St, Los Angeles",-118.2376414,34.0660293,4.3,2.0,546,True,"restaurant, food, point_of_interest, establishment",restaurant
+Ho Sum Bistro,"3112 Newport Blvd, Newport Beach",-117.9302445,33.6158059,4.4,1.0,308,True,"restaurant, food, point_of_interest, establishment",restaurant
+T.C.G. Dim Sum & Noodle House Valencia,"23460 Cinema Dr Unit C, Valencia",-118.5465109,34.4192149,4.6,2.0,16,True,"meal_takeaway, restaurant, food, point_of_interest, establishment",restaurant
+NBC Seafood Restaurant,"404 S Atlantic Blvd, Monterey Park",-118.1330263,34.0585526,4.3,2.0,2092,True,"restaurant, food, point_of_interest, establishment",restaurant
+ixlb DimSum Eats,"10905 Lindbrook Dr, Los Angeles",-118.4449799,34.0597309,4.4,1.0,54,True,"restaurant, food, point_of_interest, establishment",restaurant
+Szechwan Chinese Food,"2107 Pacific Coast Hwy, Lomita",-118.3177183,33.7897069,4.4,2.0,682,True,"restaurant, food, point_of_interest, establishment",restaurant
+Moon House,"11058 Santa Monica Blvd, Los Angeles",-118.4431321,34.0476029,4.3,2.0,902,True,"restaurant, food, point_of_interest, establishment",restaurant
+dan modern chinese - santa monica,"1403 2nd St, Santa Monica",-118.4965486,34.0147148,4.3,2.0,253,True,"restaurant, food, point_of_interest, establishment",restaurant
+Golden Tree Restaurant,"640 North Broadway Situ1, 638 N Broadway, Los Angeles",-118.2395133,34.0597071,4.5,2.0,189,True,"restaurant, food, point_of_interest, establishment",restaurant
+18 Folds,"430 S Anaheim Blvd, Anaheim",-117.912316,33.83184,4.2,,332,True,"restaurant, food, point_of_interest, establishment",restaurant
+Tian's Dim Sum Restaurant,"809 N Hill St, Los Angeles",-118.2397565,34.0631225,4.1,1.0,236,True,"bakery, restaurant, food, point_of_interest, store, establishment",restaurant
+Paradise Dynasty,"3333 Bristol Street, BLM, 1 Bloomingdale's, Costa Mesa",-117.8877892,33.6887337,4.2,2.0,556,True,"restaurant, food, point_of_interest, establishment",restaurant
+Sea Empress Seafood,"1636 W Redondo Beach Blvd, Gardena",-118.3052163,33.8891432,4.0,2.0,639,True,"restaurant, food, point_of_interest, establishment",restaurant
+Ping Pong Chinese Cuisine,"17267 Ventura Blvd, Encino",-118.509115,34.161501,4.4,2.0,284,True,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",restaurant
+Meizhou Express,"4518 Maine Ave, Baldwin Park",-117.9603696,34.0944874,4.3,2.0,158,True,"restaurant, food, point_of_interest, establishment",restaurant
+Yang Chow Restaurant,"819 N Broadway, Los Angeles",-118.2382179,34.0629657,4.5,2.0,1134,True,"restaurant, food, point_of_interest, establishment",restaurant
+Hong Kong Dim Sum House,"827 W Las Tunas Dr, San Gabriel",-118.1119796,34.1027269,4.6,1.0,149,False,"restaurant, food, point_of_interest, establishment",restaurant
+Tasty Pot,"9250 Reseda Blvd #8, Northridge",-118.5350248,34.238739,4.5,1.0,50,True,"restaurant, point_of_interest, food, establishment",restaurant
+101 Pot All You Can Eat,"55 E Duarte Rd UNIT 101, Arcadia",-118.0288817,34.1299632,4.3,,49,True,"restaurant, point_of_interest, food, establishment",restaurant
+5 POT,"748 E Colorado Blvd, Pasadena",-118.1349061,34.1457447,4.8,1.0,32,True,"restaurant, point_of_interest, food, establishment",restaurant
+Blazin Shabu Shabu,"13018 Harbor Blvd, Garden Grove",-117.9185751,33.7740276,4.4,,176,True,"restaurant, point_of_interest, food, establishment",restaurant
+MLBB AYCE Rowland Heights 马路边边麻辣燙,"18194 Colima Rd, Rowland Heights",-117.9069795,33.9873394,4.2,1.0,227,True,"meal_takeaway, meal_delivery, restaurant, point_of_interest, food, establishment",restaurant
+CHUAN POT,"2803 S Diamond Bar Blvd, Diamond Bar",-117.8388752,33.9748032,4.3,1.0,81,True,"restaurant, point_of_interest, food, establishment",restaurant
+Tasty Pot,"18219 B Gale Ave, City of Industry",-117.9065565,33.9965032,4.7,1.0,45,True,"restaurant, point_of_interest, food, establishment",restaurant
+Happy AYCE Hot Pot LA 开心火锅 洛杉矶店,"8772 Valley Blvd, Rosemead",-118.078174,34.0803691,4.4,2.0,1388,True,"restaurant, point_of_interest, food, establishment",restaurant
+PiChaiYuan Hot Pot,"18406 Colima Rd E, Rowland Heights",-117.903077,33.9874276,4.7,,410,True,"meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+吃货 Hot pot & BBQ,"500 E Valley Blvd Unit C&D, San Gabriel",-118.0944208,34.0798023,4.6,2.0,72,True,"restaurant, point_of_interest, food, establishment",restaurant
+MLBB AYCE Hot Pot 马路边边直营店,"1056 Walnut Ave, Tustin",-117.8273695,33.7314463,4.3,2.0,118,True,"restaurant, point_of_interest, food, establishment",restaurant
+Lao Ma Tou Hot Pot 老码头火锅 - Irvine,"4230 Barranca Pkwy, Irvine",-117.805635,33.6816753,4.5,,171,True,"restaurant, point_of_interest, food, establishment",restaurant
+Solo Hot Pot,"958 N Diamond Bar Blvd, Diamond Bar",-117.8053144,34.0352732,4.7,1.0,84,True,"restaurant, point_of_interest, food, establishment",restaurant
+Yuan's Hotpot Los Angeles,"8752 Valley Blvd, Rosemead",-118.078657,34.0803978,4.4,2.0,127,True,"restaurant, point_of_interest, food, establishment",restaurant
+Haidilao Hot Pot Irvine,"2710 Alton Pkwy #215, Irvine",-117.8342317,33.6878354,4.7,2.0,1406,True,"restaurant, point_of_interest, food, establishment",restaurant
+HOT°C POT,"11095 Warner Ave, Fountain Valley",-117.9354772,33.7167459,4.4,,163,True,"restaurant, point_of_interest, food, establishment",restaurant
+Fast Hotpot,"2419 Park Ave, Tustin",-117.8284182,33.69789900000001,4.3,1.0,77,True,"restaurant, point_of_interest, food, establishment",restaurant
+MooMoo Hot Pot,"3967 Irvine Blvd, Irvine",-117.7710501,33.7232162,4.6,,18,True,"restaurant, point_of_interest, food, establishment",restaurant
+Haidilao Hot Pot Century City,"10250 Santa Monica Blvd Ste 2610, Los Angeles",-118.4187477,34.0595943,4.8,2.0,1195,True,"restaurant, point_of_interest, food, establishment",restaurant
+Bon Shabu,"3454 Wilshire Blvd, Los Angeles",-118.299784,34.061458,4.3,2.0,723,True,"restaurant, point_of_interest, food, establishment",restaurant
+Boiling Point Concept,"18 W Green St, Pasadena",-118.1508406,34.1444188,4.3,2.0,513,True,"cafe, restaurant, food, point_of_interest, establishment",restaurant
+Nice to Meet You Skewer Hot Pot - Now AYCE,"15361 Culver Dr, Irvine",-117.7983759,33.6947821,4.5,1.0,163,True,"restaurant, food, point_of_interest, establishment",restaurant
+Haidilao Hot Pot Arcadia,"400 S Baldwin Ave Suite 2015, Arcadia",-118.0529968,34.1333726,4.6,3.0,1680,True,"restaurant, food, point_of_interest, establishment",restaurant
+东镇炭火铜锅 East Town Hot Pot,"18268 Gale Ave B, City of Industry",-117.9053499,33.9957662,4.5,1.0,53,True,"restaurant, food, point_of_interest, establishment",restaurant
+"Hot Pot, Hot Pot!","120 S Atlantic Blvd, Monterey Park",-118.1339222,34.0617972,4.3,2.0,425,True,"restaurant, food, point_of_interest, establishment",restaurant
+Boiling Point,"18001 Pioneer Blvd C, Artesia",-118.0825875,33.8675755,4.2,2.0,622,True,"cafe, restaurant, food, point_of_interest, establishment",restaurant
+Hot Pot City,"15606 Brookhurst St Suite E, Westminster",-117.953779,33.736382,4.4,2.0,184,True,"restaurant, food, point_of_interest, establishment",restaurant
+Tasty Pot,"33 W Main St, Alhambra",-118.1276688,34.094944,4.3,2.0,109,True,"restaurant, food, point_of_interest, establishment",restaurant
+Boiling Pot And Boba Street,"19524 Nordhoff St ste#3, Northridge",-118.5588289,34.2348246,4.3,1.0,117,True,"restaurant, meal_takeaway, food, point_of_interest, establishment",restaurant
+Haidilao Hot Pot City of Industry,"1560 S Azusa Ave Unit 178, City of Industry",-117.9270706,33.9945854,4.8,2.0,1935,True,"restaurant, food, point_of_interest, establishment",restaurant
+Zhangliang Spicy Hotpot (Rowland Heights),"1380 Fullerton Rd #104, Rowland Heights",-117.9016031,33.9932484,4.9,1.0,1537,True,"restaurant, food, point_of_interest, establishment",restaurant
+Monland Hot Pot City,"251 W Bencamp St, San Gabriel",-118.102892,34.0788769,4.3,1.0,164,True,"restaurant, food, point_of_interest, establishment",restaurant
+Ah Lien Hot Pot,"1722 Desire Ave #101, Rowland Heights",-117.8958526,33.9869671,4.2,2.0,96,True,"restaurant, food, point_of_interest, establishment",restaurant
+Boiling Point,"14140 Culver Dr, Irvine",-117.7826251,33.7074187,4.0,2.0,866,True,"cafe, restaurant, food, point_of_interest, establishment",restaurant
+AYCE Firecamp Hotpot & BBQ,"4595 Barranca Pkwy, Irvine",-117.7995896,33.6788758,4.1,1.0,71,True,"restaurant, food, point_of_interest, establishment",restaurant
+Chong Qing YaoMei Hotpot,"55 W Green St, Pasadena",-118.1517196,34.1447402,4.6,2.0,311,True,"meal_takeaway, restaurant, food, point_of_interest, establishment",restaurant
+Chun La Hao Chong Qing Hot Pot,"5701 Rosemead Blvd, Temple City",-118.0738017,34.1038276,4.2,2.0,181,True,"restaurant, food, point_of_interest, establishment",restaurant
+Paper Pot Shabu Shabu,"20657 Golden Springs Dr UNIT 206, Diamond Bar",-117.853727,33.99796240000001,4.3,2.0,133,True,"restaurant, food, point_of_interest, establishment",restaurant
+Boiling Point,"13876 Brookhurst St #3173, Garden Grove",-117.9533333,33.7613889,4.0,2.0,432,True,"cafe, restaurant, food, point_of_interest, establishment",restaurant
+Lao Ma Tou Hot Pot - Rowland Heights,"18938 Labin Ct #101A, Rowland Heights",-117.8907297,33.992591,4.1,1.0,200,True,"restaurant, food, point_of_interest, establishment",restaurant
+Boiling Point,"15488 S Western Ave, Gardena",-118.3088497,33.8892119,4.2,2.0,739,True,"cafe, restaurant, point_of_interest, food, establishment",restaurant
+Happy Sheep Hot Pot,"US California Torrance, 3525 Pacific Coast Hwy, #O",-118.3470443,33.80387839999999,4.2,2.0,433,True,"restaurant, point_of_interest, food, establishment",restaurant
+Boiling Point,"206 S 1st Ave, Arcadia",-118.0281548,34.1375949,4.1,2.0,433,True,"cafe, restaurant, point_of_interest, food, establishment",restaurant
+shancheng lameizi hot pot,"14130 Culver Dr Unit L, Irvine",-117.7819713,33.7079128,4.3,1.0,88,True,"restaurant, point_of_interest, food, establishment",restaurant
+Boiling Point,"153 W Garvey Ave, Monterey Park",-118.1241361,34.0626455,4.0,2.0,496,True,"cafe, restaurant, point_of_interest, food, establishment",restaurant
+Boiling Point,"6018, 13089 Peyton Dr, Chino Hills",-117.7441176,34.0147538,3.9,2.0,436,True,"cafe, restaurant, point_of_interest, food, establishment",restaurant
+Boiling Point,"1370 Fullerton Rd, Rowland Heights",-117.9026427,33.9933094,4.0,2.0,459,True,"cafe, restaurant, point_of_interest, food, establishment",restaurant
+Pot on Fire & Tea Bar,"3926 Grand Ave F, Chino",-117.7182658,34.0000583,4.1,2.0,341,True,"cafe, restaurant, point_of_interest, food, establishment",restaurant
+Love at the Curb（爱在马路边）,"301 W Valley Blvd Ste. #112, San Gabriel",-118.1042977,34.0802264,4.9,1.0,179,True,"restaurant, point_of_interest, food, establishment",restaurant
+YinTang Spicy Hot Pot,"138 E Garvey Ave #C, Monterey Park",-118.1218256,34.0623485,4.3,2.0,246,True,"restaurant, point_of_interest, food, establishment",restaurant
+Mokkoji Shabu Shabu,"9240 Garden Grove Blvd, Garden Grove",-117.9704417,33.7732551,4.3,1.0,113,True,"restaurant, point_of_interest, food, establishment",restaurant
+Boiling Point,"2020 S Hacienda Blvd, Hacienda Heights",-117.9666731,33.995906,4.0,2.0,274,True,"cafe, restaurant, point_of_interest, food, establishment",restaurant
+Wagyu House by The X Pot,"18558 Gale Ave Suite 122-128, Rowland Heights",-117.8998631,33.9949524,4.6,2.0,491,True,"restaurant, bar, point_of_interest, food, establishment",restaurant
+Boiling Point,"12145 Valley View St unit 103, Garden Grove",-118.0294258,33.7862826,4.0,2.0,21,True,"restaurant, point_of_interest, food, establishment",restaurant
+Qianlixiang spicy hot pot 천리향 마라탕,"3377 Wilshire Blvd #110, Los Angeles",-118.2976682,34.0624557,4.4,2.0,62,True,"restaurant, point_of_interest, food, establishment",restaurant
+Dabin Kabob & Hotpot,"301 E Garvey Ave, Monterey Park",-118.1186428,34.0628459,4.5,1.0,71,True,"restaurant, point_of_interest, food, establishment",restaurant
+Prime Hot Pot,"2415 Park Ave, Tustin",-117.8286242,33.6979897,3.8,,40,True,"restaurant, point_of_interest, food, establishment",restaurant
+Pixiu Mala Hongtang,"425 S Western Ave STE # E, Los Angeles",-118.3096256,34.0664324,4.3,1.0,113,True,"restaurant, point_of_interest, food, establishment",restaurant
+Shancheng Lameizi,"18932 Gale Ave, Rowland Heights",-117.888884,33.9960525,4.1,2.0,532,True,"restaurant, point_of_interest, food, establishment",restaurant
+Xiaolongkan Hot Pot,"46 W Valley Blvd, Alhambra",-118.1241087,34.0783397,4.1,1.0,226,True,"restaurant, point_of_interest, food, establishment",restaurant
+Noodles Noodles,"15900 Crenshaw Blvd unit c, Gardena",-118.3260127,33.8865069,4.6,2.0,32,True,"restaurant, food, point_of_interest, establishment",restaurant
+LAN NOODLE West Covina,"1428 S Azusa Ave Suite B, West Covina",-117.9075601,34.0475842,4.2,2.0,161,True,"meal_takeaway, restaurant, food, point_of_interest, establishment",restaurant
+Capital Noodle Bar | Costa Mesa,"3033 Bristol St C, Costa Mesa",-117.8861677,33.6812772,4.3,2.0,456,True,"restaurant, food, point_of_interest, establishment",restaurant
+NO. 1 NOODLE HOUSE,"18246 Gale Ave STE B, Rowland Heights",-117.9052823,33.9954923,4.5,2.0,57,True,"restaurant, food, point_of_interest, establishment",restaurant
+Noodle St.,"2323 E Chapman Ave Ste B, Fullerton",-117.8905097,33.87442,4.4,2.0,935,True,"cafe, restaurant, food, point_of_interest, establishment",restaurant
+S.T. Noodle Bar,"4152 Norse Way, Long Beach",-118.1416811,33.8335223,4.6,2.0,400,True,"restaurant, food, point_of_interest, establishment",restaurant
+Tasty Noodle House,"2373 Pacific Coast Hwy, Lomita",-118.3251271,33.7897797,4.2,2.0,384,True,"restaurant, food, point_of_interest, establishment",restaurant
+Noodle Art,"6333 W 3rd St # 508, Los Angeles",-118.3609261,34.0722669,4.6,1.0,56,True,"restaurant, food, point_of_interest, establishment",restaurant
+Noodle World,"932 Huntington Dr, San Marino",-118.12586,34.1120346,4.3,1.0,458,True,"restaurant, food, point_of_interest, establishment",restaurant
+Noodle World,"700 Valley Blvd, Alhambra",-118.130907,34.0778834,4.2,1.0,2223,True,"restaurant, food, point_of_interest, establishment",restaurant
+Old Time Noodle House,"15325 S Western Ave, Gardena",-118.3093445,33.89244710000001,4.3,1.0,367,True,"restaurant, food, point_of_interest, establishment",restaurant
+Sup Noodle Bar - Buena Park,"5141 Beach Blvd Unit B, Buena Park",-117.9958169,33.8862703,4.5,2.0,916,True,"restaurant, food, point_of_interest, establishment",restaurant
+Noodle Art 一面之缘,"117 N Lincoln Ave, Monterey Park",-118.1215725,34.0633718,4.1,2.0,244,True,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",restaurant
+Mountain Noodles,"3377 Wilshire Blvd #100, Los Angeles",-118.2976967,34.0620244,4.4,,75,True,"restaurant, food, point_of_interest, establishment",restaurant
+Venice Noodles,"10953 Venice Blvd., Los Angeles",-118.4135482,34.0153075,4.4,2.0,95,True,"restaurant, food, point_of_interest, establishment",restaurant
+RiceString Noodle Shack,"11803 South St, Cerritos",-118.0817081,33.859016,4.5,1.0,584,True,"restaurant, food, point_of_interest, establishment",restaurant
+Tasty Noodle House - Irvine,"15333 Culver Dr #320, Irvine",-117.7993508,33.6960666,4.0,1.0,290,True,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",restaurant
+Noodle St,"120 W Foothill Blvd, Monrovia",-118.0014833,34.150099,4.5,2.0,368,True,"restaurant, food, point_of_interest, establishment",restaurant
+MR DRAGON NOODLE HOUSE,"8526 Valley Blvd #108, Rosemead",-118.0826633,34.080166,4.5,2.0,348,True,"restaurant, food, point_of_interest, establishment",restaurant
+Noodle St. Irvine,"3963 Irvine Blvd, Irvine",-117.7712603,33.7232907,4.2,2.0,164,True,"restaurant, point_of_interest, food, establishment",restaurant
+Noodle World Jr.,"14622 Ventura Blvd #101, Sherman Oaks",-118.4526231,34.1513458,4.2,1.0,135,True,"restaurant, point_of_interest, food, establishment",restaurant
+Noodle Monster,"5219 1/2 Laurel Canyon Blvd, Valley Village",-118.3970892,34.1654564,4.4,1.0,211,True,"restaurant, point_of_interest, food, establishment",restaurant
+Noodle World,"1935 S Atlantic Blvd, Monterey Park",-118.142136,34.0415289,4.3,1.0,783,True,"restaurant, point_of_interest, food, establishment",restaurant
+101 Noodle Express,"1408 E Valley Blvd, Alhambra",-118.1095456,34.0789091,4.0,1.0,863,True,"restaurant, point_of_interest, food, establishment",restaurant
+Casa Noodle Teriyaki,"5930 Main St, Los Angeles",-118.2735507,33.9863838,4.5,1.0,231,True,"restaurant, point_of_interest, food, establishment",restaurant
+Mr. Noodle,"936 Broxton Ave, Los Angeles",-118.4468466,34.0629957,4.3,2.0,141,True,"restaurant, point_of_interest, food, establishment",restaurant
+Thai Noodle King,"9887 Alondra Blvd, Bellflower",-118.122314,33.889755,4.4,1.0,207,True,"restaurant, point_of_interest, food, establishment",restaurant
+Mr dragon noodle house,"20657 Golden Springs Dr #104-105, Diamond Bar",-117.853727,33.99796240000001,4.4,2.0,73,True,"meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+noodle palace,"8518 Valley Blvd, Rosemead",-118.0835419,34.0792756,4.5,2.0,112,True,"restaurant, point_of_interest, food, establishment",restaurant
+LA Kung Fu Noodle,"944 W Foothill Blvd, Claremont",-117.732734,34.1063845,4.7,,54,True,"restaurant, point_of_interest, food, establishment",restaurant
+Spicy Noodle House,"3314 S Bristol St, Santa Ana",-117.8861504,33.7033804,4.4,1.0,397,True,"restaurant, point_of_interest, food, establishment",restaurant
+Noodle St,"87 E Colorado Blvd, Pasadena",-118.1486182,34.1459397,4.4,2.0,254,True,"restaurant, point_of_interest, food, establishment",restaurant
+Tasty Noodle House - Hacienda Heights,"1611A S Azusa Ave, Hacienda Heights",-117.9329805,33.9933181,4.1,1.0,136,True,"meal_takeaway, restaurant, point_of_interest, food, establishment",restaurant
+Qin West Noodle,"6200 Scholarship, Irvine",-117.8524645,33.6660121,4.5,2.0,537,True,"restaurant, point_of_interest, food, establishment",restaurant
+Noodle St Arcadia,"400 S Baldwin Ave Ste M10, Arcadia",-118.0520754,34.1351239,4.2,2.0,156,True,"restaurant, point_of_interest, food, establishment",restaurant
+NoodleMii,"1345 S Diamond Bar Blvd j, Diamond Bar",-117.8136535,33.9975597,4.2,1.0,110,True,"restaurant, point_of_interest, food, establishment",restaurant
+Kaiju Noodle House,"1167 E Alosta Ave, Azusa",-117.8819479,34.1296674,4.4,1.0,280,True,"restaurant, bar, point_of_interest, food, establishment",restaurant
+LAN NOODLE,"7100 Santa Monica Blvd SUITE 130, West Hollywood",-118.3446476,34.0903568,4.6,2.0,84,True,"restaurant, point_of_interest, food, establishment",restaurant
+Thai Noodle House,"14328 Telegraph Rd, Whittier",-118.0266205,33.92613000000001,4.6,1.0,222,True,"restaurant, point_of_interest, food, establishment",restaurant
+The Noodle (Peyton Restaurant),"4183 Chino Hills Pkwy P, Chino Hills",-117.7146626,33.9812984,4.0,2.0,413,True,"restaurant, food, point_of_interest, establishment",restaurant
+Capital Noodle Bar,"3850 Barranca Pkwy Suite E, Irvine",-117.8118434,33.6840404,4.1,2.0,307,True,"restaurant, food, point_of_interest, establishment",restaurant
+Pa Ord Noodle,"5301 Sunset Blvd #8, Los Angeles",-118.3061549,34.0985826,4.5,1.0,886,True,"restaurant, food, point_of_interest, establishment",restaurant
+Hollywood Noodle,"48 Live Oak Ave, Arcadia",-118.0285762,34.1074502,4.1,1.0,156,True,"restaurant, food, point_of_interest, establishment",restaurant
+Lao Xi Noodle House,"921 S Baldwin Ave Ste G-H, Arcadia",-118.0548535,34.1291086,4.5,1.0,166,True,"restaurant, food, point_of_interest, establishment",restaurant
+Watdongmoonlek Noodle,"4356 Fountain Ave, Los Angeles",-118.2848647,34.0954567,4.6,1.0,448,True,"restaurant, food, point_of_interest, establishment",restaurant
+Tasty Noodle House,"2117 Sawtelle Blvd, Los Angeles",-118.4424563,34.0390491,3.8,2.0,283,True,"restaurant, food, point_of_interest, establishment",restaurant
+The Noodle麵麵店,"19755 Colima Rd, Rowland Heights",-117.8720891,33.9866344,3.7,2.0,312,True,"restaurant, food, point_of_interest, establishment",restaurant
+Cyclo Noodles,"4754 Pacific Coast Hwy, Long Beach",-118.1387027,33.7865087,4.5,1.0,614,True,"cafe, restaurant, food, point_of_interest, establishment",restaurant
+Best Noodle House,"9329 Valley Blvd, Rosemead",-118.0662053,34.0812563,4.3,1.0,211,True,"restaurant, food, point_of_interest, establishment",restaurant
+The Soup and Noodle,"807 N Tustin St, Orange",-117.8353952,33.8007073,4.2,2.0,294,True,"cafe, restaurant, food, point_of_interest, establishment",restaurant
+Noodle World Jr,"8636 S Sepulveda Blvd, Los Angeles",-118.3958708,33.9587705,4.0,2.0,117,True,"restaurant, food, point_of_interest, establishment",restaurant
+Tasty Noodle House,"2947 Chino Ave #3, Chino Hills",-117.7410899,34.0093019,3.6,1.0,219,True,"restaurant, food, point_of_interest, establishment",restaurant
+101 Noodle Express,"1025 S Baldwin Ave, Arcadia",-118.0553054,34.1279741,4.1,1.0,307,True,"restaurant, food, point_of_interest, establishment",restaurant
+WeHo Thai Noodle & Rice,"7075 Sunset Blvd, Los Angeles",-118.343966,34.098565,4.3,1.0,262,True,"restaurant, food, point_of_interest, establishment",restaurant
+SPICY NOODLE HOUSE,"68 Rio Rancho Rd #106, Pomona",-117.7607473,34.02813750000001,4.4,2.0,62,True,"restaurant, food, point_of_interest, establishment",restaurant
+Qin West Noodle,"1767 Westwood Blvd, Los Angeles",-118.4382242,34.0505683,4.5,1.0,913,True,"restaurant, food, point_of_interest, establishment",restaurant
+Wen Hui Noodle Hours,"644 W Garvey Ave, Monterey Park",-118.1314865,34.0621551,4.3,2.0,108,True,"restaurant, food, point_of_interest, establishment",restaurant
+Noodle House,"958 E Garvey Ave, Monterey Park",-118.109625,34.0621657,3.3,1.0,102,True,"meal_takeaway, restaurant, food, point_of_interest, establishment",restaurant
