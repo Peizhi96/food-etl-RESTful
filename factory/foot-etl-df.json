@@ -1,0 +1,9 @@
+{
+	"name": "foot-etl-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d089c1ed-6a12-4035-8f3a-1d17eb0c24ae",
+		"tenantId": "a8eec281-aaa3-4dae-ac9b-9a398b9215e7"
+	}
+}
