@@ -17,15 +17,11 @@ steps:
     versionSpec: '3.x'
 
 - script: |
-    # Install necessary Python packages
     pip install -r requirements.txt
-    pip install pytest sqlalchemy==2.0.12
     pip install databricks-cli
-  displayName: 'Install dependencies and Databricks CLI'
-
-- script: |
-    databricks configure --token --host https://adb-750644874697514.14.azuredatabricks.net/
-    databricks workspace import_dir /Users/Peizhi/Desktop/Main/DE/data-engineer/food-etl-RESTful /Shared --overwrite
+    export DATABRICKS_HOST=https://adb-750644874697514.14.azuredatabricks.net/
+    export DATABRICKS_TOKEN=$(DATABRICKS_PAT)
+    databricks workspace import_dir /path/to/notebooks /Shared --overwrite
   displayName: 'Deploy Notebooks to Databricks'
   env:
-    DATABRICKS_TOKEN: $(DATABRICKS_PAT)
+    DATABRICKS_PAT: $(DATABRICKS_PAT)
