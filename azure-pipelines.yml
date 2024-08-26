@@ -32,7 +32,7 @@ steps:
     echo "Listing contents of current directory:"
     ls -la
     
-    databricks workspace import_dir ./food-etl-RESTful /Shared --overwrite
+    databricks workspace import_dir /restaurant.ipynb /Shared/restaurant.ipynb --overwrite
   displayName: 'Deploy Notebooks to Databricks'
   env:
     DATABRICKS_PAT: $(DATABRICKS_PAT)
