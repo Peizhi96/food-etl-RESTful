@@ -12,13 +12,20 @@ pool:
 steps:
 - checkout: self
 
+- script: |
+    sudo apt-get update
+    sudo apt-get install -y unixodbc-dev libpq-dev
+  displayName: 'Install system dependencies'
+
 - task: UsePythonVersion@0
   inputs:
     versionSpec: '3.x'
-
 - script: |
     pip install -r requirements.txt
     pip install databricks-cli
+  displayName: 'Install Python dependencies'
+
+- script: |
     export DATABRICKS_HOST=https://adb-750644874697514.14.azuredatabricks.net/
     export DATABRICKS_TOKEN=$(DATABRICKS_PAT)
     databricks workspace import_dir /path/to/notebooks /Shared --overwrite
