@@ -35,6 +35,9 @@ steps:
 
     echo "Listing contents of current directory:"
     ls -la
+
+    echo "Host: $DATABRICKS_HOST"
+    echo "Token: ${DATABRICKS_TOKEN:0:4}****"
     
     databricks workspace import --language PYTHON --overwrite ./restaurant.ipynb /Shared/restaurant.ipynb
   displayName: 'Deploy Notebooks to Databricks'
