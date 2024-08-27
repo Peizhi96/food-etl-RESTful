@@ -9,6 +9,9 @@ trigger:
 pool:
   vmImage: ubuntu-latest
 
+variables:
+  DATABRICKS_HOST: 'https://adb-750644874697514.14.azuredatabricks.net'
+
 steps:
 - checkout: self
 
